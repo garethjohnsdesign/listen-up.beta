@@ -1,0 +1,98 @@
+---
+layout: compress
+---
+
+<!DOCTYPE html>
+<html class="no-js" lang="en" dir="ltr">
+
+<!-- Head -->
+{% include head.html %}
+<!-- End Head -->
+
+<body>
+  
+<!-- Navigation -->  
+{% include navigation.html %}
+<!-- End Navigation -->
+
+<!-- Menu -->  
+{% include overlay-menu.html %}
+<!-- End Menu --> 
+
+<!-- Content -->
+{{ content }}
+<!-- End Content -->
+
+<!-- Footer -->  
+{% include footer.html %}
+<!-- End Footer -->
+
+</body>
+
+<!-- Scripts -->
+{% include scripts.html %}
+<!-- End Scripts -->
+
+{% if page.url == "/" %}
+<script type="text/javascript">
+// Initialize flexsliders
+$(window).load(function() {
+
+  var sliderList = document.querySelector('ul.slides');
+  for (var i = sliderList.children.length; i >= 0; i--) {
+    sliderList.appendChild(sliderList.children[Math.random() * i | 0]);
+  }
+  var sliders = [
+    {'position': 1,'delay': 0},
+    {'position': 2,'delay': 7},
+    {'position': 3,'delay': 5},
+    {'position': 4,'delay': 3},
+    {'position': 5,'delay': 1},
+    {'position': 6,'delay': 8},
+    {'position': 7,'delay': 2},
+    {'position': 8,'delay': 6},
+    {'position': 9,'delay': 4}
+  ];
+  for(var i=1; i < sliders.length; i++) {
+    var cloned = jQuery(".sliderWrapper .columns").clone(true, true).get(0);
+    jQuery(cloned).find("*").each(function(index, element) {   // And all inner elements.
+        if(element.id)
+        {
+            var matches = element.id.match(/(.+)\d+/);
+            if(matches && matches.length >= 2)            // Captures start at [1].
+                element.id = matches[1] + sliders[i]['position'];
+        }
+    });
+    jQuery(cloned).appendTo($(".sliderWrapper"));
+  };
+  sliderArr = jQuery(".flexslider");
+  for(var i=0; i < sliderArr.length; i++) {
+    jQuery('#flexslider' + sliders[i]['position']).flexslider({
+      initDelay: (sliders[i]['delay'] * 3000),
+      animation: "fade",
+      animationSpeed: 600,
+      animationLoop: true,
+      slideshowSpeed: 3000,
+      controlNav: false,
+      directionNav: false,
+      smoothHeight: false,
+      itemWidth: 350,
+      minItems: 1,
+      maxItems: 1,
+      randomize: false,
+      startAt: ( 27 - (sliders[i]['position']*3)),
+      after: function(slider){
+        // clears the interval
+        slider.stop();
+        // grab a random duration to show this slide
+        slider.vars.slideshowSpeed = 30000;
+        // start the interval
+        slider.play();
+      }
+    });
+  };
+});
+</script>
+{% endif %}
+
+</html>
