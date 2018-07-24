@@ -67,9 +67,8 @@ description: Listen Up provides a bespoke 360 promotional service offering radio
   club, online and print campaigns in the UK and worldwide.
 permalink: pretty
 exclude:
-- Gemfile
-- Gemfile.lock
 - bower.json
+- Gemfile.lock
 - package.json
 - config.codekit3
 - README*
@@ -78,6 +77,7 @@ exclude:
 - node_modules
 - ".gitignore"
 - bower_components
+- assets/scss
 gems:
 - jekyll-seo-tag
 - jekyll-sitemap
