@@ -6,6 +6,6 @@ tags:
 - artist
 position: 312
 facebook: https://www.facebook.com/themagicianmusic/
-layout: client
+
 ---
 

@@ -7,6 +7,6 @@ tags:
 - label
 position: 304
 facebook: https://www.facebook.com/subliminalrecords
-layout: client
+
 ---
 

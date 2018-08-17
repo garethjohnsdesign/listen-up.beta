@@ -14,7 +14,7 @@ facebook: https://www.facebook.com/lostandfoundfestival/
 twitter: https://twitter.com/AMPlostandfound
 instagram: https://www.instagram.com/amplostandfound
 youtube: https://www.youtube.com/channel/UCTy--nLdft2j0Oscj51dElg
-layout: client
+
 ---
 
 Annie Mac Presents… Lost & Found has become one of Europe's best sun-drenched dance music festivals. Starting off the summer in classic AMP style, it's relaxed partying at its finest.

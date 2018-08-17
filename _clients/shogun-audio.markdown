@@ -6,6 +6,6 @@ tags:
 - label
 position: 288
 facebook: https://www.facebook.com/shogunaudio
-layout: client
+
 ---
 

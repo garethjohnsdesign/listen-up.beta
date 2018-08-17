@@ -6,6 +6,6 @@ tags:
 - label
 position: 322
 facebook: https://www.facebook.com/toolroomrecords/
-layout: client
+
 ---
 

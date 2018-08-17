@@ -6,6 +6,6 @@ tags:
 - artist
 position: 242
 facebook: https://www.facebook.com/GeorgeFitzGeraldOfficial/
-layout: client
+
 ---
 

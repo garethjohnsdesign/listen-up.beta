@@ -1,28 +1,24 @@
-<!-- Excerpt -->
-<div class="excerpt">
-  
-  {% if team.website %}
-  <a href="{{ team.website }}" target="_blank">
-  {% elsif team.facebook %}
-  <a href="{{ team.facebook }}" target="_blank">
-  {% else %}
-  <a href="{{ team.twitter }}" target="_blank">
-  {% endif %}
-
-  <!-- Excerpt Title -->
-  <div class="row excerpt__title align-middle">
-    <div class="small-12 columns text-center">
-      <p>{{ team.title }}</p>
-    </div>
+<div class="cell">
+  <div class="excerpt">
+      {% if client.website %}
+      <a href="{{ client.website }}" target="_blank">
+      {% elsif client.facebook %}
+      <a href="{{ client.facebook }}" target="_blank">
+      {% else %}
+      <a href="{{ client.twitter }}" target="_blank">
+      {% endif %}
+      
+      <div class="grid-x align-center-middle excerpt__title">
+        <div class="small-12 cell text-center text-uppercase">
+          <h5 class="secondary-font">{{ client.title }}</h5>
+        </div>
+      </div>  
+      
+      <div class="excerpt__image">
+        {% assign image = client.image %}
+        {% include images/excerpt.html %}
+      </div>
+    
+    </a>
   </div>
-  <!-- End Excerpt Title -->
-
-  <!-- Excerpt Image -->
-  <div class="excerpt__image">
-  <img src="{{team.image}}" alt="{{team.title}}">
-  </div>
-  <!-- End Image -->
-
-  </a>
 </div>
-<!-- End Excerpt -->

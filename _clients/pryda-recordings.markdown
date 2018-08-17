@@ -6,6 +6,6 @@ tags:
 - label
 position: 188
 twitter: https://twitter.com/PrydaRecordings
-layout: client
+
 ---
 

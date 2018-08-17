@@ -1,15 +1,14 @@
 {% for entry in site.data.navigation %}{% capture fullurl %}{{ site.baseurl }}{{ entry.url }}{% endcapture %}{% if fullurl == page.url %}{% assign current_page = fullurl %}{% break %}{% elsif page.url contains fullurl %}{% assign current_page = fullurl %}{% endif %}{% endfor %}
+ 
+<!-- Navigation -->
+<div class="grid-x grid-padding-x grid-padding-y align-justify navigation align-middle">
+  
+  <div class="auto cell">
+    <a href="/"><svg class="icon icon-logo"><use xlink:href="/assets/icons/symbol-defs.svg#icon-logo"></use></svg></a>
+  </div>
+  
+  <div class="shrink cell text-right">
 
-  <div class="top-bar" id="top"> 
-
-      <div class="top-bar-left align-middle">
-        <div class="top-bar-title">
-          <a href="/" class="animsition-link"><svg class="icon icon-logo"><use xlink:href="/assets/icons/symbol-defs.svg#icon-logo"></use></svg></a>
-        </div>
-      </div>
-      
-      <div class="top-bar-right">
-        
       <div class="show-for-small-only">
         <button class="hamburger hamburger--collapse" id="toggle" data-toggler=".is-active" type="button" data-toggle="overlay toggle">
           <span class="hamburger-box">
@@ -46,8 +45,7 @@
         </ul>
       </div>
       
-      </div>
-    
-
   </div>
-
+  
+</div>
+<!-- End Navigation -->

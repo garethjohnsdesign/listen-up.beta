@@ -6,6 +6,6 @@ tags:
 - artist
 position: 259
 facebook: https://www.facebook.com/kimyanlawmusic/
-layout: client
+
 ---
 

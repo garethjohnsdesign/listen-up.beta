@@ -7,6 +7,6 @@ tags:
 - publication
 position: 264
 website: https://www.facebook.com/MixmagMagazine/
-layout: client
+
 ---
 

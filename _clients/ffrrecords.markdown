@@ -11,6 +11,6 @@ image: "/uploads/ffrr.jpg"
 is-club-featured: false
 is-streaming-featured: false
 website: http://ffrrecords.com
-layout: client
+
 ---
 

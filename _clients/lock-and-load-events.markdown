@@ -6,6 +6,6 @@ tags:
 - festival
 position: 201
 website: http://www.locknloadevents.com/
-layout: client
+
 ---
 

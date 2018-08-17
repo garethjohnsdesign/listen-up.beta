@@ -9,6 +9,6 @@ image: "/uploads/Spinnin.jpg"
 is-featured: false
 is-front: true
 facebook: https://www.facebook.com/SpinninRecords
-layout: client
+
 ---
 

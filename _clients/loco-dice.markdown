@@ -10,6 +10,6 @@ image: "/uploads/locodice.jpg"
 is-featured: false
 is-front: true
 facebook: https://www.facebook.com/locodiceofc
-layout: client
+
 ---
 

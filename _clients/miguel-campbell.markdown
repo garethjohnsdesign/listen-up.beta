@@ -6,6 +6,6 @@ tags:
 - artist
 position: 190
 website: http://www.miguelcampbellofficial.com/
-layout: client
+
 ---
 

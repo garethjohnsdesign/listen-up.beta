@@ -8,6 +8,6 @@ tags:
 - labels
 position: 231
 facebook: https://www.facebook.com/RAMrecordsltd
-layout: client
+
 ---
 

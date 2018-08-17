@@ -1,75 +1,96 @@
-//  Listen Up Settings
-//  ---------------------------
-//
 //  Table of Contents:
 //
-//   1. Global
-//   2. Typography
-//   3. 404
-//   4. Navigation
-//   5. Excerpt
-//   6. Index
-//   7. Contact
-//   8. Clients
-//   9. Service
-//   10. Team
-//   11. Footer
+//   1. Mixins
+//   2. Global
+//   3. Plugins
+//   4. Color
+//   5. Typography
+//   6. Navigation
+//   7. Off-canvas
+//   8. Layout
+//   9. Home
+//   10. Menu / Food
+//   11. Find Us
+//   12. Story
+//   13. Hire Us
+//   14. Contact
+//   15. Page
+//   16. Footer
 
-// 1. Global
+
+// 1. Mixins
 // ---------
 
-html, body {
-  height: 100%;
-  margin: 0;
-  padding: 0;
+@mixin links ($link, $hover) {
+  a {
+    color: $link;
+    &:hover {
+      color: $hover;   
+    }
+  }
 }
+
+// 2. Global
+// ---------
 
 body {
   cursor: default;
+  font-kerning: normal;
 }
 
 svg {
   max-width: 100%;
 }
 
-img {
-  display: block;
-  max-width: 100%;
-  height: auto;
-}
-
 ::selection {
-  background: $color--black;
-  color: $color--white;
+  background: $primary-color;
+  color: $black;
 }
 
-a {
-  transition: $primary-transition;
+:focus {
+  outline: 0;
 }
 
-.arrow:after {
-  content: '→';
-  margin-left: .4816em;
-  transition: margin .1s
+// 3. Plugins
+// ----------
+
+.turbolinks-progress-bar {
+  height: 5px;
+  background-color: $primary-color;
 }
 
-.arrow:hover:after {
-  margin-left: 0.602em
+// 4. Color
+// --------
+
+.white {
+  color: $white;
 }
 
-.plus:after {
-  content: '+';
-  margin-left: .4816em;
-  transition: margin .1s;
-  color: $color--red;
+.primary-color {
+  color: get-color(primary);
 }
 
-.plus:hover:after {
-  margin-left: 0.602em
+.secondary-color {
+  color: get-color(secondary);
 }
 
-// 2. Typography
+// 5. Typography
 // -------------
+
+footer .menu .menu-text {
+padding: 0.25rem 1rem;
+font-weight: normal;
+color: $white;
+}
+
+footer .menu a {
+padding: 0.25rem 1rem;
+font-weight: normal;
+}
+
+.underline {
+  border-bottom: 1px solid $black;
+}
 
 .uppercase {
   text-transform: uppercase;
@@ -79,351 +100,155 @@ i, cite, em, var, address, dfn {
   font-style: normal;
 }
 
-@mixin header-tight {
-  margin-bottom: 0rem;
+p a {
+  border-bottom: 1px solid $black;
 }
 
-// 3. 404
-// ------
-
-.missing {
-  margin-top: 3rem;
-  margin-bottom: 3rem;
-    a {
-      color: $color--dark-gray;
-    }
-    a:hover {
-      color: $color--black;
-    }
+.primary-font {
+  font-family: $primary-font-family;
 }
 
-// 4. Navigation
+.primary-font-italic {
+  font-family: $primary-font-family-italic;
+}
+
+.secondary-font {
+  font-family: $secondary-font-family;
+}
+
+.secondary-font-italic {
+  font-family: $secondary-font-family-italic;
+}
+
+
+// 6. Navigation
 // -------------
 
-.top-bar a { 
-  color: $color--white;
-  &:hover {
-    color: $color--black;
+.navigation {
+  font-family: $secondary-font-family;
+  background-color: $primary-color;
+  .cell {
+	z-index: 14; 
+  }
+  @include links ($white, $black)
+}
+
+.hamburger-inner {
+  &,
+  &::before,
+  &::after {
+    background-color: $white;
   }
 }
 
-.top-bar-right-mobile {
-  z-index: 1004;
+// 7. Off-canvas
+// -------------
+
+.off-canvas {
+  @include links ($black, $white)
 }
 
-.is-dropdown-submenu {
-  z-index: 1000;
+// 8. Layout
+// ---------
+
+.hero {
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  height: 85vh;
+  background-color: $light-gray;
 }
 
-
-// 5. Excerpt
-// ----------
-
-.excerpt {
-  position:relative;
-  opacity:1;
-  margin: 0.5rem;
-  transition: $primary-transition;
-    @include breakpoint(medium only) {
-      margin: 0.75rem;
-    }
-    @include breakpoint(small only) {
-      margin: 0.75rem;
-    }
-    img {
-      width:100%;
-      filter: grayscale(1);
-    }
-    &:hover .excerpt__image:after {
-      background:$color--red;
-      transition: $primary-transition;
-      opacity:0.8;
-    }
-    &:hover .excerpt__title p {
-      opacity: 1;
-      color: $color--black;
-    } 
-}
-
-.excerpt__title {
-  position:absolute;
-  width: 100%;
-  height: 100%;
-  z-index: 1;
-  margin: 0rem;
-    p {
-      opacity: 1;
-      color: $color--white;
-      transition: $primary-transition;
-      letter-spacing: 0.05rem;
-      margin: 0rem;
-    }
-}
-
-div.row.excerpt__title {
-  margin: 0rem;
-}
-
-.excerpt__image:after {
-  content:'\A';
-  position:absolute;
-  width:100%; 
-  height:100%;
-  top:0; 
-  left:0;
-  background:$color--black;
-  transition: $primary-transition;
-  opacity:0.5;
-}
-
-// 6. Index
-// --------
-
-.index__hero {
-  height: 60vh;
-  z-index: 0;
-  background-color: black;
-}
-
-.index__hero__cell {
-  height: 100%;
-  z-index: 1;
-}
-
-.index__hero__cell__text {
-  height: 100%;
-    h1 {
-      font-family: 'FuturaStd-ExtraBoldOblique', Helvetica, Roboto, Arial, sans-serif;
-      color: $color--white;
-      text-transform: uppercase;
-    }
-}
-
-.index__intro {
-  padding-top: 3rem;
-  padding-bottom: 3rem;
-    @include breakpoint(small only) {
-      padding-top: 2rem;
-      padding-bottom: 2rem;
-    }
-}
-
-.index__services {
-  padding-top: 3rem;
-  padding-bottom: 3rem;
-}
-
-.index__section__title {
-  color: $color--red;
-}
-
-.index__services__section {
-  padding-bottom: 2rem;
-  h4 {
-    margin-bottom: $header-bottom-margin--tighter;
-    color: $color--black;
-  }
-  h5 {
-    color: $color--gray;
-  }
-  p {
-    color: $color--dark-gray;
-  }
-}
-
-.index__more {
-  color: $color--gray;
-    span {
-      color: $color--red;
-    }
-}
-
-// 7. Contact
+// 9. Home
 // -------
 
-.contact__intro {
-  padding-top: 3rem;
-  padding-bottom: 3rem;
+.home .navigation {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
 }
 
-.contact__location {
-  margin-bottom: 2rem;
+
+// 15. Page
+// --------
+
+.page .navigation {
+  @include links ($black, $primary-color)
 }
 
-.contact__location__map {
-  margin-bottom: 2rem;
+.page .hamburger-inner {
+  &,
+  &::before,
+  &::after {
+    background-color: $black;
+  }
 }
 
-.contact__location__directions {
-  padding-top: 0rem;
-  padding-bottom: 1rem;
-    a {
-      color: $color--gray;
-    }
-    a:hover {
-      color: $color--black;
-    }
+// 16. Footer
+// ----------
+
+footer {
+  background-color: $primary-color;
+  @include links ($white, $black)
+}
+
+.top-bar {
+  @include links ($white, $black)
 }
 
 .contact__location__map {
   height: 20rem;
 }
 
-.contact__enquiries__title {
-  color: $color--red;
+.home__hero {
+  position: relative;
 }
 
-.contact__enquiries {
-  padding-top: 3rem;
-  padding-bottom: 3rem;
+.home__hero .cell {
+  z-index: 1000;
 }
 
-.contact__enquiry {
-  padding-bottom: 2rem;
+.home__hero {
+  height: 80vh;
 }
 
-// 8. Clients
-// ----------
-
-.client {
-  padding-top: 3rem;
-  padding-bottom: 3rem;
+.home__hero video {
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
 }
 
-.clients__intro {
-  padding-top: 3rem;
-  padding-bottom: 3rem;
+.plus:after {
+  content: '+';
+  margin-left: .4816em;
+  transition: margin .1s;
+  color: $primary-color;
 }
 
-.clients__list {
-  padding-top: 3rem;
-  padding-bottom: 3rem;
+.plus:hover:after {
+  margin-left: 0.602em
 }
 
-.clients__category {
-  padding-top: 1rem;
-  padding-bottom: 1rem;
-}
-
-.clients__category__title {
-  color: $color--red;
-}
-
-.clients__category__list {
-  a {
-    color: $color--black;
-  }
-  a:hover {
-    color: $color--gray;
+.excerpt {
+  position:relative;
+  &:hover .excerpt__title {
+  opacity: 0;
   }
 }
 
-// 9. Service
-// ----------
-
-.service__intro {
-  padding-top: 3rem;
-  padding-bottom: 3rem;
+.excerpt img {
+   filter: grayscale(1);
 }
 
-.service__clients__featured {
-  padding-top: 0rem;
-  padding-bottom: 3rem;
-}
-
-.service__list {
-  padding-top: 3rem;
-  padding-bottom: 3rem;
-}
-
-.service__category {
-  padding-top: 1rem;
-  padding-bottom: 1rem;
-}
-
-.service__category__title {
-  color: $color--red;
-}
-
-.service__category__list {
-  a {
-    color: $color--black;
-  }
-  a:hover {
-    color: $color--gray;
-  }
-}
-
-// 10. Team
-// ----------
-
-.team__intro {
-  padding-top: 3rem;
-  padding-bottom: 3rem;
-}
-
-.team__excerpt {
-  padding-top: 1rem;
-  padding-bottom: 1rem;
-}
-
-.team__featured__people {
-  h4 {
-    margin-bottom: $header-bottom-margin--tighter;
-    color: $color--black;
-  }
-  h5 {
-    color: $color--gray;
-  }
-}
-
-.team__people {
-  h4 {
-    margin-bottom: $header-bottom-margin--tighter;
-    color: $color--black;
-  }
-  h5 {
-    color: $color--gray;
-  }
-  p {
-    color: $color--dark-gray;
-  }
-}
-
-.team__contact {
-  margin-bottom: 3rem;
-  h3 {
-    color: $color--red;
-  }
-}
-
-.team__people__person {
-  padding-bottom: 2rem;
-}
-
-
-// 11. Footer
-// ----------
-
-footer {
-  background-color: $color--black;
-  color: $color--white;
-  padding: 2rem;
-    a {
-      color: $color--white;
-      display: block;
-    }
-    a:hover {
-      color: $color--red;
-    }
-    @include breakpoint(small only) {
-      padding: 1rem;
-    }
-}
-
-.footer__detail {
-  color: $color--gray;
-    @include breakpoint(small only) {
-      padding-top: 1rem;
-    }
+.excerpt__title {
+  position:absolute;
+  width: 100%;
+  height: 100%;
+  color: $white;
+  z-index: 1;
+  opacity: 1;
 }

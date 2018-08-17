@@ -11,6 +11,6 @@ is-featured: false
 is-front: true
 is-club-featured: true
 facebook: https://www.facebook.com/EricPrydzOfficial
-layout: client
+
 ---
 

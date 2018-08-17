@@ -1,5 +1,5 @@
 ---
-title: Specialist Radio & Club
+title: Specialist Radio + Club
 position: 3
 subtitle: 
 excerpt: Here at Listen up we work very closely with all specialist radio presenters

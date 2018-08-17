@@ -1,6 +1,6 @@
 # Listen Up
 
-Website for Listen Up. Please go to [http://listen-up.com](http://listen-up.com) in case you want to take a look at the website.
+Website for Listen Up. Please go to [https://www.listen-up.com](https://www.listen-up.com) in case you want to take a look at the website.
 
 * * *
 

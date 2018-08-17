@@ -6,6 +6,6 @@ tags:
 - artist
 position: 204
 facebook: https://www.facebook.com/lewisdelmar/
-layout: client
+
 ---
 

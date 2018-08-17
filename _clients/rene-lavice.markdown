@@ -6,6 +6,6 @@ tags:
 - artist
 position: 276
 website: http://www.renelavice.com/
-layout: client
+
 ---
 

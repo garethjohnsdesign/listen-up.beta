@@ -11,7 +11,7 @@ spotify: https://open.spotify.com/user/anjunabeats
 soundcloud: https://soundcloud.com/anjunabeats/
 youtube: https://www.youtube.com/c/anjunabeats
 apple: https://itunes.apple.com/gb/artist/anjunabeats/id203191853
-layout: client
+
 ---
 
 Anjunabeats is the label owned and A&R’d by Above & Beyond - Jono Grant, Tony McGuinness and Paavo Siljamäki.

@@ -17,6 +17,6 @@ spotify: https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp
 soundcloud: https://soundcloud.com/andreaoliva
 youtube: https://youtube.com/andreaolivaofficial
 apple: https://itunes.apple.com/us/artist/andrea-oliva/id258421388
-layout: client
+
 ---
 

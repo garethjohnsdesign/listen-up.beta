@@ -12,6 +12,6 @@ instagram: https://instagram.com/wearebigbeat
 spotify: http://open.spotify.com/user/bigbeatrecords
 soundcloud: https://soundcloud.com/wearebigbeat
 youtube: https://www.youtube.com/user/wearebigbeat
-layout: client
+
 ---
 
