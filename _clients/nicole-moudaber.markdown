@@ -12,6 +12,5 @@ is-front: true
 is-digital-featured: false
 is-artist-featured: true
 facebook: https://www.facebook.com/officialpage/
-
 ---
 

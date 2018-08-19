@@ -9,6 +9,5 @@ position: 328
 image: "/uploads/Warner.jpg"
 is-front: true
 facebook: https://www.facebook.com/WarnerBrosRecords
-
 ---
 

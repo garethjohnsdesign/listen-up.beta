@@ -11,6 +11,5 @@ is-front: false
 is-events-featured: true
 is-digital-featured: false
 facebook: https://www.facebook.com/ParadiseInParadise/
-
 ---
 

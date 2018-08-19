@@ -12,6 +12,5 @@ is-front: true
 is-radio-featured: true
 is-artist-featured: false
 facebook: https://www.facebook.com/theofficialMK
-
 ---
 

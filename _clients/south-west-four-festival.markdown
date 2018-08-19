@@ -10,6 +10,5 @@ is-featured: false
 is-front: true
 is-events-featured: true
 facebook: https://www.facebook.com/southwestfour
-
 ---
 

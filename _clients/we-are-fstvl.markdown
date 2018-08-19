@@ -13,6 +13,5 @@ is-events-featured: true
 is-radio-featured: false
 is-artist-featured: false
 facebook: https://www.facebook.com/wearefstvl
-
 ---
 

@@ -13,6 +13,5 @@ spotify: https://open.spotify.com/artist/2vUbOx0zj57h8lbQK4dYaM
 soundcloud: https://soundcloud.com/booka-shade
 youtube: https://www.youtube.com/user/BookaShadeOfficial
 apple: https://itunes.apple.com/gb/artist/booka-shade/id129902516
-
 ---
 
