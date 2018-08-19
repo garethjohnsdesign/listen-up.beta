@@ -108,29 +108,20 @@ p a {
   font-family: $primary-font-family;
 }
 
-.primary-font-italic {
-  font-family: $primary-font-family-italic;
-}
-
 .secondary-font {
   font-family: $secondary-font-family;
+  letter-spacing: .035em;
+  text-transform: uppercase;
 }
-
-.secondary-font-italic {
-  font-family: $secondary-font-family-italic;
-}
-
 
 // 6. Navigation
 // -------------
 
 .navigation {
-  font-family: $secondary-font-family;
-  background-color: $primary-color;
   .cell {
 	z-index: 14; 
   }
-  @include links ($white, $black)
+  @include links ($primary-color, $black)
 }
 
 .hamburger-inner {
@@ -201,19 +192,11 @@ footer {
   height: 20rem;
 }
 
-.home__hero {
-  position: relative;
-}
-
-.home__hero .cell {
+.hero .cell {
   z-index: 1000;
 }
 
-.home__hero {
-  height: 80vh;
-}
-
-.home__hero video {
+.hero video {
   object-fit: cover;
   width: 100%;
   height: 100%;
@@ -251,4 +234,22 @@ footer {
   color: $white;
   z-index: 1;
   opacity: 1;
+}
+
+
+.hero .navigation {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  color: $white;
+  @include links ($white, $primary-color)
+}
+
+.hero {
+  position: relative;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  height: 90vh;
 }

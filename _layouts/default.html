@@ -12,8 +12,12 @@ layout: compress
 
 <body>
   
-<!-- Navigation -->  
+<!-- Navigation -->
+{% unless page.layout == "home" %}
+<!-- Testimonials -->
 {% include navigation.html %}
+<!-- End Testimonials -->
+{% endunless %}
 <!-- End Navigation -->
 
 <!-- Content -->

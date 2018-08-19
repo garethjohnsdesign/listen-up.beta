@@ -2473,13 +2473,6 @@
 		"oAP": "\/_layouts\/service-streaming.html",
 		"oF": 0
 		},
-	"\/_layouts\/service.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_layouts\/service.html",
-		"oF": 0
-		},
 	"\/_layouts\/services.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -4603,6 +4596,34 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/assets\/fonts\/larsseit.woff2",
+		"oF": 0
+		},
+	"\/assets\/fonts\/sharp-sans-no1-black.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/fonts\/sharp-sans-no1-black.woff",
+		"oF": 0
+		},
+	"\/assets\/fonts\/sharp-sans-no1-black.woff2": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/fonts\/sharp-sans-no1-black.woff2",
+		"oF": 0
+		},
+	"\/assets\/fonts\/sharp-sans-no1-extrabold.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/fonts\/sharp-sans-no1-extrabold.woff",
+		"oF": 0
+		},
+	"\/assets\/fonts\/sharp-sans-no1-extrabold.woff2": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/fonts\/sharp-sans-no1-extrabold.woff2",
 		"oF": 0
 		},
 	"\/assets\/icons\/symbol-defs.svg": {

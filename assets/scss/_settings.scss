@@ -65,7 +65,8 @@
 // 1. Global
 // ---------
 
-$global-font-size: 100%;
+// $global-font-size: 100%;
+$global-font-size: 20px;
 $global-width: rem-calc(1200);
 $global-lineheight: 1.5;
 /*
@@ -142,14 +143,14 @@ $block-grid-max: 8;
 // 4. Base Typography
 // ------------------
 
-// $header-font-family: $body-font-family;
-$header-font-family: $secondary-font-family;
+$header-font-family: $body-font-family;
+// $header-font-family: $secondary-font-family;
 $header-font-weight: $global-weight-normal;
 $header-font-style: normal;
 $font-family-monospace: Consolas, 'Liberation Mono', Courier, monospace;
 $header-color: inherit;
 // $header-lineheight: 1.4;
-$header-lineheight: 1.2;
+$header-lineheight: 1.4;
 $header-margin-bottom: 0.5rem;
 /*
 $header-styles: (
@@ -190,8 +191,8 @@ $header-styles: (
   ),
   'large': (
     'h1': ('font-size': 96, 'line-height': 1.1, 'margin-top': 0, 'margin-bottom': $header-margin-bottom),
-    'h2': ('font-size': 40, 'line-height': 1.2, 'margin-top': 0, 'margin-bottom': $header-margin-bottom),
-    'h3': ('font-size': 31, 'line-height': $header-lineheight, 'margin-top': 0, 'margin-bottom': $header-margin-bottom),
+    'h2': ('font-size': 48, 'line-height': 1.2, 'margin-top': 0, 'margin-bottom': $header-margin-bottom),
+    'h3': ('font-size': 36, 'line-height': $header-lineheight, 'margin-top': 0, 'margin-bottom': $header-margin-bottom),
     'h4': ('font-size': 24, 'line-height': $header-lineheight, 'margin-top': 0, 'margin-bottom': $header-margin-bottom),
     'h5': ('font-size': 20, 'line-height': $header-lineheight, 'margin-top': 0, 'margin-bottom': $header-margin-bottom),
     'h6': ('font-size': 14, 'line-height': $header-lineheight, 'margin-top': 0, 'margin-bottom': $header-margin-bottom)
@@ -440,7 +441,8 @@ $dropdown-sizes: (
 // 18. Dropdown Menu
 // -----------------
 
-$dropdownmenu-arrows: true;
+// $dropdownmenu-arrows: true;
+$dropdownmenu-arrows: false;
 // $dropdownmenu-arrow-color: $anchor-color;
 $dropdownmenu-arrow-color: $white;
 $dropdownmenu-arrow-size: 6px;
@@ -448,6 +450,7 @@ $dropdownmenu-arrow-padding: 1.5rem;
 $dropdownmenu-min-width: 200px;
 // $dropdownmenu-background: $white;
 $dropdownmenu-background: $primary-color;
+$dropdownmenu-background: transparent;
 $dropdownmenu-submenu-background: $dropdownmenu-background;
 $dropdownmenu-padding: $global-menu-padding;
 $dropdownmenu-nested-margin: 0;
@@ -456,7 +459,8 @@ $dropdownmenu-submenu-padding: $dropdownmenu-padding;
 $dropdownmenu-border: 0px solid $medium-gray;
 // $dropdown-menu-item-color-active: get-color(primary);
 $dropdown-menu-item-color-active: $black;
-$dropdown-menu-item-background-active: $primary-color;
+// $dropdown-menu-item-background-active: $primary-color;
+$dropdown-menu-item-background-active: transparent;
 
 // 19. Flexbox Utilities
 // ---------------------
@@ -534,7 +538,8 @@ $menu-items-padding: $global-menu-padding;
 $menu-simple-margin: 1rem;
 // $menu-item-color-active: $white;
 $menu-item-color-active: $black;
-$menu-item-background-active: get-color(primary);
+// $menu-item-background-active: get-color(primary);
+$menu-item-background-active: transparent;
 $menu-icon-spacing: 0.25rem;
 $menu-item-background-hover: $light-gray;
 $menu-state-back-compat: true;

@@ -2,28 +2,30 @@
 layout: default
 ---
 
-<!-- Hero -->
-<div class="home__hero">
-  <div class="grid-container grid-x align-middle align-center" style="height: 100%;">
-    <div class="small-10 medium-10 cell text-center">
-      <h1 class="secondary-font-italic white">{{page.hero}}</h1>
+
+<section class="hero">
+  
+  {% include navigation.html %}
+  
+  <div class="grid-x align-middle align-center height-100">
+    <div class="small-shrink medium-10 cell text-center">
+      <h1 class="white secondary-font text-uppercase">Without Promotion<br>Nothing Happens</h1>
     </div>
   </div>
+  
+  <video playsinline autoplay muted loop poster="assets/videos/video.jpg" id="bgvid">
+    <source src="assets/videos/video.webm" type="video/webm">
+    <source src="assets/videos/video.mp4" type="video/mp4">
+  </video>
+  
+</section>
 
-
-<video playsinline autoplay muted loop poster="assets/videos/video.jpg" id="bgvid">
-  <source src="assets/videos/video.webm" type="video/webm">
-  <source src="assets/videos/video.mp4" type="video/mp4">
-</video>
-
-</div> 
-<!-- End Hero -->
 
 <!-- Intro -->
 <div class="grid-container padding-vertical-3">
   <div class="grid-x grid-padding-x grid-padding-y align-center">
     <div class="small-10 cell text-center">
-      <h2 class="secondary-font-italic">{{page.content}}</h2>
+      <h2>{{page.content}}</h2>
     </div>
   </div>
 </div>
@@ -41,7 +43,7 @@ layout: default
   {% assign services = site.services | sort: 'position' %}
   {% for service in services %}
   <div class="margin-bottom-2">
-  <h4>{{ service.title }}</h4>
+  <h3 class="secondary-font text-uppercase">{{ service.title }}</h3>
   <h5 class="secondary-color">{{ service.subtitle }}</h5>
   <p>{{ service.excerpt }}</p>
   <a href="{{ service.url }}" class="plus">More</a>
