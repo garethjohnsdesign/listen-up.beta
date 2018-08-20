@@ -6,9 +6,7 @@ categories:
 - artist
 tags:
 - artist
-- Artist
-- artists
-image: "/uploads/Dicky.jpg"
+image: "/uploads/lil-dicky.jpg"
 is-front: true
 is-radio-featured: false
 ---

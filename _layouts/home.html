@@ -6,9 +6,15 @@ layout: default
   
   {% include navigation.html %}
   
-  <div class="grid-x align-middle align-center height-100">
+  <div class="grid-x align-middle align-center height-100" data-aos="fade-up">
     <div class="small-shrink medium-10 cell text-center">
       <h1 class="white secondary-font text-uppercase">Without Promotion<br>Nothing Happens</h1>
+    </div>
+  </div>
+  
+  <div class="grid-x hero__arrow">
+    <div class="small-12 cell text-center" data-smooth-scroll>
+      <a href="#home-intro"><svg class="icon icon-arrow-down8"><use xlink:href="/assets/icons/symbol-defs.svg#icon-arrow-down8"></use></svg></a>
     </div>
   </div>
   
@@ -21,29 +27,43 @@ layout: default
 
 
 <!-- Intro -->
-<div class="grid-container padding-vertical-3">
+<div class="grid-container padding-vertical-2" id="home-intro">
   <div class="grid-x grid-padding-x grid-padding-y align-center">
-    <div class="small-10 cell text-center">
+    <div class="small-12 medium-10 cell text-center">
       <h2>{{page.content}}</h2>
     </div>
   </div>
 </div>
 <!-- End Intro -->
 
+
+<!-- Front Clients -->
+<div class="grid-container">
+<div class="grid-x grid-padding-x grid-padding-y small-up-1 medium-up-3">
+  {% assign clients = site.clients | sort: 'position' | where: "is-front", "true" | sample:9 %}
+  {% for client in clients %}
+    <div class="cell">
+    {% include client-excerpt.html %}
+    </div>
+  {% endfor %}
+</div>
+</div>
+<!-- End Front Clients -->
+
 <!-- Services -->
 <div class="grid-container">
 <div class="grid-x grid-padding-x grid-padding-y">
   
-  <div class="small-10 small-offset-1 medium-3 medium-offset-0 cell">
-  <h4>Services</h4>
+  <div class="small-12 medium-3 cell show-for-medium">
+  <h4 class="secondary-color">Services</h4>
   </div>
   
-  <div class="small-10 small-offset-1 medium-9 medium-offset-0 cell">
+  <div class="small-12 medium-9 cell text-center medium-text-left">
   {% assign services = site.services | sort: 'position' %}
   {% for service in services %}
   <div class="margin-bottom-2">
-  <h3 class="secondary-font text-uppercase">{{ service.title }}</h3>
-  <h5 class="secondary-color">{{ service.subtitle }}</h5>
+  <h3 class="secondary-font">{{ service.title }}</h3>
+  <h4 class="secondary-color">{{ service.subtitle }}</h4>
   <p>{{ service.excerpt }}</p>
   <a href="{{ service.url }}" class="plus">More</a>
   </div>

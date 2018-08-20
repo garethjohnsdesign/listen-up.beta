@@ -5,7 +5,7 @@ categories:
 - events
 tags:
 - festival
-image: "/uploads/BALATON.jpg"
+image: "/uploads/balaton-sound.jpg"
 is-events-featured: true
 website: https://balatonsound.com/en/
 ---

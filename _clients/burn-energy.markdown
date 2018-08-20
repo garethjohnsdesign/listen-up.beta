@@ -6,7 +6,7 @@ categories:
 tags:
 - venue
 position: 56
-image: "/uploads/burn-eb2fa4.jpg"
+image: "/uploads/burn.jpg"
 is-events-featured: true
 website: https://www.burn.com/us/en/promotions/burn-residency-2018
 ---

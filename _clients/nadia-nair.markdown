@@ -5,8 +5,7 @@ categories:
 - radio
 tags:
 - artist
-- radio
-image: "/uploads/Nadia%20Nair.jpg"
+image: "/uploads/nadia-nair.jpg"
 is-radio-featured: true
 ---
 

@@ -7,7 +7,7 @@ categories:
 tags:
 - label
 position: 6
-image: "/uploads/SAved.jpg"
+image: "/uploads/saved.jpg"
 is-streaming-featured: true
 website: http://www.savedrecords.com/
 ---

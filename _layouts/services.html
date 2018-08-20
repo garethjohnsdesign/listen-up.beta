@@ -7,20 +7,18 @@ layout: default
 <div class="grid-container">
   <div class="grid-x grid-padding-x grid-padding-y">
     
-    <div class="small-10 medium-3 cell">
-      <h4>Services</h4>
+    <div class="small-12 medium-3 cell show-for-medium">
+      <h4 class="secondary-color">Services</h4>
     </div>
     
-    <div class="small-10 medium-9 cell">
+    <div class="small-12 medium-9 cell">
       {% assign services = site.services | sort: 'position' %}
       {% for service in services %}
       <div class="margin-bottom-2">
-      <h4>{{ service.title }}</h4>
-      <h5>{{ service.subtitle }}</h5>
+      <h3 class="secondary-font">{{ service.title }}</h3>
+      <h4 class="secondary-color">{{ service.subtitle }}</h4>
       <p>{{ service.content }}</p>
-      <div class="index__more">
-        <a href="{{ service.url }}" class="plus">More</a>
-      </div>
+      <a href="{{ service.url }}" class="plus">More</a>
       </div>
       {% endfor %}
     </div>

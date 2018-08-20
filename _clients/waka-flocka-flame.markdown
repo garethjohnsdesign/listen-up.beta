@@ -5,7 +5,7 @@ categories:
 - artist
 tags:
 - artist
-image: "/uploads/WAKA.jpeg"
+image: "/uploads/waka-flocka-flame.jpg"
 is-featured: true
 is-front: true
 is-artist-featured: true

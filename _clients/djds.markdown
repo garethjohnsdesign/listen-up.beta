@@ -6,7 +6,7 @@ categories:
 - Artist
 tags:
 - Artist
-image: "/uploads/DJDS-c668fa.jpg"
+image: "/uploads/djds.jpg"
 is-front: true
 ---
 

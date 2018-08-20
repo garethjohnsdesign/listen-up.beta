@@ -5,7 +5,7 @@ categories:
 - events
 tags:
 - venue
-image: "/uploads/Ocean%20Beach%20Ibiza.jpg"
+image: "/uploads/ocean-beach-ibiza.jpg"
 is-featured: true
 is-events-featured: true
 ---

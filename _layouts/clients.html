@@ -3,7 +3,7 @@ layout: default
 ---
 
 <!-- Intro -->
-<div class="grid-container padding-vertical-3">
+<div class="grid-container">
   <div class="grid-x grid-padding-x grid-padding-y align-center">
     <div class="small-12 medium-10 cell text-center">
       <h3>{{page.intro}}</h3>
@@ -17,7 +17,9 @@ layout: default
 <div class="grid-x grid-padding-x grid-padding-y small-up-1 medium-up-3">
   {% assign clients = site.clients | sort: 'position' | where: "is-featured", "true" %}
   {% for client in clients %}
-    {% include excerpt.html %}
+    <div class="cell">
+    {% include client-excerpt.html %}
+    </div>
   {% endfor %}
 </div>
 </div>
@@ -76,11 +78,11 @@ layout: default
   <!-- Clients Category - Festivals -->
     <div class="grid-x grid-padding-x grid-padding-y">
       
-      <div class="small-10 medium-3 cell">
+      <div class="small-12 medium-3 cell">
         <h3 class="secondary-font">Festivals</h3>
       </div>
       
-      <div class="small-10 medium-9 cell">
+      <div class="small-12 medium-9 cell">
         <div class="grid-x small-up-1 medium-up-3"> 
         {% assign clients = site.clients | sort: 'title' %}
         {% for client in clients %}
@@ -100,11 +102,11 @@ layout: default
   <!-- Clients Category - Venues -->
     <div class="grid-x grid-padding-x grid-padding-y">
       
-      <div class="small-10 medium-3 cell">
+      <div class="small-12 medium-3 cell">
         <h3 class="secondary-font">Venues and Brands</h3>
       </div>
       
-      <div class="small-10 medium-9 cell">
+      <div class="small-12 medium-9 cell">
         <div class="grid-x small-up-1 medium-up-3"> 
         {% assign clients = site.clients | sort: 'title' %}
         {% for client in clients %}

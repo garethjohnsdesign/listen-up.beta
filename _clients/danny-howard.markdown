@@ -7,7 +7,7 @@ categories:
 tags:
 - artist
 position: 87
-image: "/uploads/Danny%20Howard.jpg"
+image: "/uploads/danny-howard.jpg"
 is-front: true
 facebook: https://www.facebook.com/dannyhowarddj/
 ---

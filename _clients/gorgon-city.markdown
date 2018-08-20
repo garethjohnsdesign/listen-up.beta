@@ -6,7 +6,7 @@ categories:
 tags:
 - artist
 position: 16
-image: "/uploads/GORGON-b12582.jpg"
+image: "/uploads/gorgon-city.jpg"
 is-front: true
 ---
 

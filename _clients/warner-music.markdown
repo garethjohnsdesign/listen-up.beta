@@ -5,7 +5,7 @@ categories:
 - streaming-promotion
 tags:
 - label
-image: "/uploads/warner-065e11.jpg"
+image: "/uploads/warner-music.jpg"
 is-streaming-featured: true
 ---
 

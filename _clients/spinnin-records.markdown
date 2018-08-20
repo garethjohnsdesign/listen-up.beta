@@ -5,7 +5,7 @@ categories:
 tags:
 - label
 position: 299
-image: "/uploads/Spinnin.jpg"
+image: "/uploads/spinnin.jpg"
 is-featured: false
 is-front: true
 facebook: https://www.facebook.com/SpinninRecords

@@ -163,13 +163,6 @@
 		"oAP": "\/_clients\/atlantic-records.markdown",
 		"oF": 0
 		},
-	"\/_clients\/avicii.markdown": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_clients\/avicii.markdown",
-		"oF": 0
-		},
 	"\/_clients\/axtone.markdown": {
 		"cB": 0,
 		"ft": 8192,
@@ -273,13 +266,6 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_clients\/bmg.markdown",
-		"oF": 0
-		},
-	"\/_clients\/boardmasters-festival.markdown": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_clients\/boardmasters-festival.markdown",
 		"oF": 0
 		},
 	"\/_clients\/bob-moses.markdown": {
@@ -611,13 +597,6 @@
 		"oAP": "\/_clients\/duke-dumont.markdown",
 		"oF": 0
 		},
-	"\/_clients\/e1-london.markdown": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_clients\/e1-london.markdown",
-		"oF": 0
-		},
 	"\/_clients\/ea-kaya.markdown": {
 		"cB": 0,
 		"ft": 8192,
@@ -716,11 +695,11 @@
 		"oAP": "\/_clients\/fat-nick.markdown",
 		"oF": 0
 		},
-	"\/_clients\/fatboy-slim-b8e12c.markdown": {
+	"\/_clients\/fatboy-slim.markdown": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/_clients\/fatboy-slim-b8e12c.markdown",
+		"oAP": "\/_clients\/fatboy-slim.markdown",
 		"oF": 0
 		},
 	"\/_clients\/ffrrecords.markdown": {
@@ -1409,11 +1388,11 @@
 		"oAP": "\/_clients\/mysterland-holland.markdown",
 		"oF": 0
 		},
-	"\/_clients\/naations-627afc.markdown": {
+	"\/_clients\/naations.markdown": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/_clients\/naations-627afc.markdown",
+		"oAP": "\/_clients\/naations.markdown",
 		"oF": 0
 		},
 	"\/_clients\/nadia-nair.markdown": {
@@ -1421,13 +1400,6 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_clients\/nadia-nair.markdown",
-		"oF": 0
-		},
-	"\/_clients\/naira-marley.markdown": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_clients\/naira-marley.markdown",
 		"oF": 0
 		},
 	"\/_clients\/nass-festival.markdown": {
@@ -2312,13 +2284,6 @@
 		"oAP": "\/_includes\/client-excerpt.html",
 		"oF": 0
 		},
-	"\/_includes\/excerpt.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_includes\/excerpt.html",
-		"oF": 0
-		},
 	"\/_includes\/footer.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -2354,25 +2319,11 @@
 		"oAP": "\/_includes\/navigation.html",
 		"oF": 0
 		},
-	"\/_includes\/navigation_old.html": {
+	"\/_includes\/offcanvas.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/_includes\/navigation_old.html",
-		"oF": 0
-		},
-	"\/_includes\/overlay-menu.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_includes\/overlay-menu.html",
-		"oF": 0
-		},
-	"\/_includes\/pagination.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_includes\/pagination.html",
+		"oAP": "\/_includes\/offcanvas.html",
 		"oF": 0
 		},
 	"\/_includes\/scripts.html": {
@@ -2380,13 +2331,6 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/_includes\/scripts.html",
-		"oF": 0
-		},
-	"\/_includes\/socials.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_includes\/socials.html",
 		"oF": 0
 		},
 	"\/_includes\/team-excerpt.html": {
@@ -2738,17 +2682,6 @@
 		"oAP": "\/_team\/victoria-mccall.markdown",
 		"oF": 0
 		},
-	"\/_uploads\/22382271_1685245171515033_4482896301902825468_o.jpg": {
-		"ft": 16384,
-		"iS": 172061,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/_uploads\/22382271_1685245171515033_4482896301902825468_o.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
 	"\/_uploads\/abode.jpg": {
 		"ft": 16384,
 		"iS": 34173,
@@ -2771,12 +2704,12 @@
 		"opt": 0,
 		"q": 100
 		},
-	"\/_uploads\/Alison Wonderland.jpg": {
+	"\/_uploads\/alison-wonderland.jpg": {
 		"ft": 16384,
 		"iS": 305411,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/_uploads\/Alison Wonderland.jpg",
+		"oAP": "\/_uploads\/alison-wonderland.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -2793,26 +2726,15 @@
 		"opt": 0,
 		"q": 100
 		},
-	"\/_uploads\/atlantic.jpg": {
+	"\/_uploads\/atlantic-records.jpg": {
 		"ft": 16384,
-		"iS": 67826,
+		"iS": 33522,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/_uploads\/atlantic.jpg",
+		"oAP": "\/_uploads\/atlantic-records.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
-		"q": 100
-		},
-	"\/_uploads\/Atlantic_Records_box_logo_(colored).svg.png": {
-		"ft": 32768,
-		"iS": 129418,
-		"oA": 0,
-		"oAP": "\/_uploads\/Atlantic_Records_box_logo_(colored).svg.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
 		"q": 100
 		},
 	"\/_uploads\/atrak.jpg": {
@@ -2826,89 +2748,23 @@
 		"opt": 0,
 		"q": 100
 		},
-	"\/_uploads\/avicii.jpg": {
+	"\/_uploads\/balaton-sound.jpg": {
 		"ft": 16384,
-		"iS": 139066,
+		"iS": 282115,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/_uploads\/avicii.jpg",
+		"oAP": "\/_uploads\/balaton-sound.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/_uploads\/aviciiLU.jpg": {
-		"ft": 16384,
-		"iS": 38475,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/_uploads\/aviciiLU.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_uploads\/aviici.jpg": {
-		"ft": 16384,
-		"iS": 17088,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/_uploads\/aviici.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_uploads\/BALATON.jpg": {
-		"ft": 16384,
-		"iS": 283028,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/_uploads\/BALATON.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_uploads\/Black-Coffee.jpg": {
-		"ft": 16384,
-		"iS": 51246,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/_uploads\/Black-Coffee.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_uploads\/BMG.jpg": {
+	"\/_uploads\/bmg-music.jpg": {
 		"ft": 16384,
 		"iS": 75135,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/_uploads\/BMG.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_uploads\/boardmasters.jpg": {
-		"ft": 16384,
-		"iS": 86664,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/_uploads\/boardmasters.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_uploads\/boardmasters2.jpg": {
-		"ft": 16384,
-		"iS": 65767,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/_uploads\/boardmasters2.jpg",
+		"oAP": "\/_uploads\/bmg-music.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -2920,28 +2776,6 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/bros.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_uploads\/burn-a68cf2.jpg": {
-		"ft": 16384,
-		"iS": 202816,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/_uploads\/burn-a68cf2.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_uploads\/burn-eb2fa4.jpg": {
-		"ft": 16384,
-		"iS": 48509,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/_uploads\/burn-eb2fa4.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -2980,34 +2814,12 @@
 		"opt": 1,
 		"q": 100
 		},
-	"\/_uploads\/cafemambo.jpg": {
-		"ft": 16384,
-		"iS": 27851,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/_uploads\/cafemambo.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_uploads\/CHRIstoph-dfc39e.jpg": {
+	"\/_uploads\/christoph-rev.jpg": {
 		"ft": 16384,
 		"iS": 270344,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/_uploads\/CHRIstoph-dfc39e.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_uploads\/CHRIstoph.jpg": {
-		"ft": 16384,
-		"iS": 270344,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/_uploads\/CHRIstoph.jpg",
+		"oAP": "\/_uploads\/christoph-rev.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -3035,12 +2847,12 @@
 		"opt": 0,
 		"q": 100
 		},
-	"\/_uploads\/Danny Howard.jpg": {
+	"\/_uploads\/danny-howard.jpg": {
 		"ft": 16384,
 		"iS": 228892,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/_uploads\/Danny Howard.jpg",
+		"oAP": "\/_uploads\/danny-howard.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -3057,12 +2869,12 @@
 		"opt": 0,
 		"q": 100
 		},
-	"\/_uploads\/Desolat.jpg": {
+	"\/_uploads\/desolat.jpg": {
 		"ft": 16384,
-		"iS": 116730,
+		"iS": 77237,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/_uploads\/Desolat.jpg",
+		"oAP": "\/_uploads\/desolat.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -3079,56 +2891,12 @@
 		"opt": 0,
 		"q": 100
 		},
-	"\/_uploads\/Dicky.jpg": {
-		"ft": 16384,
-		"iS": 278051,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/_uploads\/Dicky.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
 	"\/_uploads\/dimension.jpg": {
 		"ft": 16384,
 		"iS": 229628,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/dimension.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_uploads\/disc.jpg": {
-		"ft": 16384,
-		"iS": 318143,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/_uploads\/disc.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_uploads\/Disciples-210efa.jpg": {
-		"ft": 16384,
-		"iS": 104633,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/_uploads\/Disciples-210efa.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_uploads\/disciples-8c8c23.jpg": {
-		"ft": 16384,
-		"iS": 100796,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/_uploads\/disciples-8c8c23.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -3145,34 +2913,12 @@
 		"opt": 0,
 		"q": 100
 		},
-	"\/_uploads\/disciplesLU.jpg": {
-		"ft": 16384,
-		"iS": 68894,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/_uploads\/disciplesLU.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_uploads\/DJDS-c668fa.jpg": {
+	"\/_uploads\/djds.jpg": {
 		"ft": 16384,
 		"iS": 362772,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/_uploads\/DJDS-c668fa.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_uploads\/DJDS.jpg": {
-		"ft": 16384,
-		"iS": 362772,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/_uploads\/DJDS.jpg",
+		"oAP": "\/_uploads\/djds.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -3184,28 +2930,6 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/duke.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_uploads\/e1LU.jpg": {
-		"ft": 16384,
-		"iS": 84304,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/_uploads\/e1LU.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_uploads\/eats-everything.jpg": {
-		"ft": 16384,
-		"iS": 61015,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/_uploads\/eats-everything.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -3233,56 +2957,12 @@
 		"opt": 0,
 		"q": 100
 		},
-	"\/_uploads\/elrow-bc4ee6.jpg": {
+	"\/_uploads\/eric-prydz.jpg": {
 		"ft": 16384,
-		"iS": 560089,
+		"iS": 95357,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/_uploads\/elrow-bc4ee6.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_uploads\/elrow.jpg": {
-		"ft": 16384,
-		"iS": 129648,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/_uploads\/elrow.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_uploads\/EricP.jpg": {
-		"ft": 16384,
-		"iS": 128959,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/_uploads\/EricP.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_uploads\/esvive-07afa3.jpg": {
-		"ft": 16384,
-		"iS": 239396,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/_uploads\/esvive-07afa3.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_uploads\/esvive-c29b02.jpg": {
-		"ft": 16384,
-		"iS": 239396,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/_uploads\/esvive-c29b02.jpg",
+		"oAP": "\/_uploads\/eric-prydz.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -3299,45 +2979,12 @@
 		"opt": 0,
 		"q": 100
 		},
-	"\/_uploads\/FAT NICK-6447d5.jpg": {
-		"ft": 16384,
-		"iS": 203047,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/_uploads\/FAT NICK-6447d5.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_uploads\/Fat Nick.jpg": {
+	"\/_uploads\/fat-nick.jpg": {
 		"ft": 16384,
 		"iS": 82328,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/_uploads\/Fat Nick.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_uploads\/FatBoy.jpg": {
-		"ft": 16384,
-		"iS": 92160,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/_uploads\/FatBoy.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_uploads\/ffrr.jpg": {
-		"ft": 16384,
-		"iS": 118467,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/_uploads\/ffrr.jpg",
+		"oAP": "\/_uploads\/fat-nick.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -3387,45 +3034,12 @@
 		"opt": 0,
 		"q": 100
 		},
-	"\/_uploads\/GORGON-b12582.jpg": {
+	"\/_uploads\/gorgon-city.jpg": {
 		"ft": 16384,
 		"iS": 153635,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/_uploads\/GORGON-b12582.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_uploads\/GORGON.jpg": {
-		"ft": 16384,
-		"iS": 153635,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/_uploads\/GORGON.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_uploads\/Hus.jpg": {
-		"ft": 16384,
-		"iS": 233368,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/_uploads\/Hus.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_uploads\/Icarus-4c8fc0.jpg": {
-		"ft": 16384,
-		"iS": 3169024,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/_uploads\/Icarus-4c8fc0.jpg",
+		"oAP": "\/_uploads\/gorgon-city.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -3448,6 +3062,17 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/idris.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/j-hus.jpg": {
+		"ft": 16384,
+		"iS": 68483,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_uploads\/j-hus.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -3497,45 +3122,12 @@
 		"opt": 0,
 		"q": 100
 		},
-	"\/_uploads\/Jhuss.jpg": {
-		"ft": 16384,
-		"iS": 94184,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/_uploads\/Jhuss.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_uploads\/job.jpg": {
-		"ft": 16384,
-		"iS": 9812,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/_uploads\/job.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
 	"\/_uploads\/jonas-blue.jpg": {
-		"ft": 16384,
-		"iS": 67680,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/_uploads\/jonas-blue.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_uploads\/jonasbluepressshot.jpg": {
 		"ft": 16384,
 		"iS": 110093,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/_uploads\/jonasbluepressshot.jpg",
+		"oAP": "\/_uploads\/jonas-blue.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -3574,12 +3166,16 @@
 		"opt": 0,
 		"q": 100
 		},
-	"\/_uploads\/Lil DickyFreakyFriday(feat.ChrisBrown)_4050538379853.tif": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_uploads\/Lil DickyFreakyFriday(feat.ChrisBrown)_4050538379853.tif",
-		"oF": 0
+	"\/_uploads\/lil-dicky.jpg": {
+		"ft": 16384,
+		"iS": 278051,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_uploads\/lil-dicky.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/_uploads\/locodice.jpg": {
 		"ft": 16384,
@@ -3592,78 +3188,23 @@
 		"opt": 0,
 		"q": 100
 		},
-	"\/_uploads\/lostfound.jpg": {
+	"\/_uploads\/lost-found.jpg": {
 		"ft": 16384,
 		"iS": 65712,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/_uploads\/lostfound.jpg",
+		"oAP": "\/_uploads\/lost-found.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/_uploads\/maceo.jpg": {
-		"ft": 16384,
-		"iS": 185750,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/_uploads\/maceo.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_uploads\/maceoLU.jpg": {
+	"\/_uploads\/maceo-plex.jpg": {
 		"ft": 16384,
 		"iS": 74303,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/_uploads\/maceoLU.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_uploads\/marshmello.jpg": {
-		"ft": 16384,
-		"iS": 68683,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/_uploads\/marshmello.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_uploads\/marshmelloLU.jpg": {
-		"ft": 16384,
-		"iS": 96064,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/_uploads\/marshmelloLU.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_uploads\/martin-solveig.jpg": {
-		"ft": 16384,
-		"iS": 76087,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/_uploads\/martin-solveig.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_uploads\/martinsolveig.jpg": {
-		"ft": 16384,
-		"iS": 130258,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/_uploads\/martinsolveig.jpg",
+		"oAP": "\/_uploads\/maceo-plex.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -3724,34 +3265,23 @@
 		"opt": 0,
 		"q": 100
 		},
-	"\/_uploads\/NAATIONS_logo.jpg": {
+	"\/_uploads\/naations.jpg": {
 		"ft": 16384,
 		"iS": 45028,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/_uploads\/NAATIONS_logo.jpg",
+		"oAP": "\/_uploads\/naations.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/_uploads\/Nadia Nair.jpg": {
+	"\/_uploads\/nadia-nair.jpg": {
 		"ft": 16384,
 		"iS": 241853,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/_uploads\/Nadia Nair.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_uploads\/NASS-81d5d8.jpg": {
-		"ft": 16384,
-		"iS": 159287,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/_uploads\/NASS-81d5d8.jpg",
+		"oAP": "\/_uploads\/nadia-nair.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -3759,7 +3289,7 @@
 		},
 	"\/_uploads\/nass.jpg": {
 		"ft": 16384,
-		"iS": 40702,
+		"iS": 159287,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/nass.jpg",
@@ -3812,12 +3342,12 @@
 		"opt": 0,
 		"q": 100
 		},
-	"\/_uploads\/Ocean Beach Ibiza.jpg": {
+	"\/_uploads\/ocean-beach-ibiza.jpg": {
 		"ft": 16384,
-		"iS": 34757,
+		"iS": 39077,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/_uploads\/Ocean Beach Ibiza.jpg",
+		"oAP": "\/_uploads\/ocean-beach-ibiza.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -3834,23 +3364,12 @@
 		"opt": 0,
 		"q": 100
 		},
-	"\/_uploads\/onken_170322_JonasBlueNYC_015_fin.jpg": {
-		"ft": 16384,
-		"iS": 997423,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/_uploads\/onken_170322_JonasBlueNYC_015_fin.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_uploads\/Oscar Worldwide.jpg": {
+	"\/_uploads\/oscar-worldwide.jpg": {
 		"ft": 16384,
 		"iS": 155239,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/_uploads\/Oscar Worldwide.jpg",
+		"oAP": "\/_uploads\/oscar-worldwide.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -3865,39 +3384,6 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
-		"q": 100
-		},
-	"\/_uploads\/Parklife-107162.jpg": {
-		"ft": 16384,
-		"iS": 413368,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/_uploads\/Parklife-107162.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_uploads\/PARKLIFE-17-OW-untitled-202-2 [Web].jpeg": {
-		"ft": 16384,
-		"iS": 1061641,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/_uploads\/PARKLIFE-17-OW-untitled-202-2 [Web].jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_uploads\/Parklife-c33927.jpg": {
-		"ft": 16384,
-		"iS": 413368,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/_uploads\/Parklife-c33927.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
 		"q": 100
 		},
 	"\/_uploads\/parklife.jpg": {
@@ -3922,67 +3408,23 @@
 		"opt": 0,
 		"q": 100
 		},
-	"\/_uploads\/PDM-58f4e4.jpg": {
-		"ft": 16384,
-		"iS": 266773,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/_uploads\/PDM-58f4e4.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_uploads\/PDM-e07581.jpg": {
-		"ft": 16384,
-		"iS": 266773,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/_uploads\/PDM-e07581.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_uploads\/PDM.jpg": {
-		"ft": 16384,
-		"iS": 266773,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/_uploads\/PDM.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_uploads\/Pendulum.jpg": {
+	"\/_uploads\/pendulum.jpg": {
 		"ft": 16384,
 		"iS": 223116,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/_uploads\/Pendulum.jpg",
+		"oAP": "\/_uploads\/pendulum.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/_uploads\/placeholder.png": {
-		"ft": 32768,
-		"iS": 2833,
-		"oA": 0,
-		"oAP": "\/_uploads\/placeholder.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/_uploads\/PRYDZ.jpg": {
+	"\/_uploads\/purple-disco-machine.jpg": {
 		"ft": 16384,
-		"iS": 95357,
+		"iS": 266773,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/_uploads\/PRYDZ.jpg",
+		"oAP": "\/_uploads\/purple-disco-machine.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -3999,12 +3441,12 @@
 		"opt": 0,
 		"q": 100
 		},
-	"\/_uploads\/SAved.jpg": {
+	"\/_uploads\/saved.jpg": {
 		"ft": 16384,
 		"iS": 193577,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/_uploads\/SAved.jpg",
+		"oAP": "\/_uploads\/saved.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -4012,32 +3454,10 @@
 		},
 	"\/_uploads\/sigala.jpg": {
 		"ft": 16384,
-		"iS": 310376,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/_uploads\/sigala.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_uploads\/sigalaLU.jpg": {
-		"ft": 16384,
 		"iS": 97511,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/_uploads\/sigalaLU.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_uploads\/sigma.jpg": {
-		"ft": 16384,
-		"iS": 128444,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/_uploads\/sigma.jpg",
+		"oAP": "\/_uploads\/sigala.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -4065,45 +3485,12 @@
 		"opt": 0,
 		"q": 100
 		},
-	"\/_uploads\/SONY-547c0d.jpg": {
+	"\/_uploads\/sony.jpg": {
 		"ft": 16384,
 		"iS": 43767,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/_uploads\/SONY-547c0d.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_uploads\/sony.jpg": {
-		"ft": 16384,
-		"iS": 20401,
-		"jF": 0,
-		"oA": 0,
 		"oAP": "\/_uploads\/sony.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_uploads\/Sony2.jpg": {
-		"ft": 16384,
-		"iS": 20357,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/_uploads\/Sony2.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_uploads\/sony3.jpg": {
-		"ft": 16384,
-		"iS": 20430,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/_uploads\/sony3.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -4120,12 +3507,12 @@
 		"opt": 0,
 		"q": 100
 		},
-	"\/_uploads\/Spinnin.jpg": {
+	"\/_uploads\/spinnin.jpg": {
 		"ft": 16384,
 		"iS": 22165,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/_uploads\/Spinnin.jpg",
+		"oAP": "\/_uploads\/spinnin.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -4170,39 +3557,6 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/sw4.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_uploads\/tael of us-111079.jpg": {
-		"ft": 16384,
-		"iS": 139261,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/_uploads\/tael of us-111079.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_uploads\/tael of us.jpg": {
-		"ft": 16384,
-		"iS": 139261,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/_uploads\/tael of us.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_uploads\/Tale Of Us_lead shot small.jpeg": {
-		"ft": 16384,
-		"iS": 262483,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/_uploads\/Tale Of Us_lead shot small.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -4274,67 +3628,45 @@
 		"opt": 1,
 		"q": 100
 		},
-	"\/_uploads\/wacka.jpg": {
-		"ft": 16384,
-		"iS": 121188,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/_uploads\/wacka.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_uploads\/WAKA.jpeg": {
+	"\/_uploads\/waka-flocka-flame.jpg": {
 		"ft": 16384,
 		"iS": 145337,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/_uploads\/WAKA.jpg",
+		"oAP": "\/_uploads\/waka-flocka-flame.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/_uploads\/warner-065e11.jpg": {
+	"\/_uploads\/warner-music.jpg": {
 		"ft": 16384,
 		"iS": 29690,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/_uploads\/warner-065e11.jpg",
+		"oAP": "\/_uploads\/warner-music.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/_uploads\/Warner.jpg": {
+	"\/_uploads\/warner-records.jpg": {
 		"ft": 16384,
-		"iS": 26531,
+		"iS": 25686,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/_uploads\/Warner.jpg",
+		"oAP": "\/_uploads\/warner-records.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/_uploads\/we r.jpg": {
+	"\/_uploads\/we-are-fstvl.jpg": {
 		"ft": 16384,
-		"iS": 343739,
+		"iS": 180798,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/_uploads\/we r.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_uploads\/WEAREFSTVL-2017-AWH-1780 [Web] (4).jpeg": {
-		"ft": 16384,
-		"iS": 801678,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/_uploads\/WEAREFSTVL-2017-AWH-1780 [Web] (4).jpg",
+		"oAP": "\/_uploads\/we-are-fstvl.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -4342,21 +3674,10 @@
 		},
 	"\/_uploads\/wiley.jpg": {
 		"ft": 16384,
-		"iS": 184759,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/_uploads\/wiley.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_uploads\/WileyLU.jpg": {
-		"ft": 16384,
 		"iS": 83087,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/_uploads\/WileyLU.jpg",
+		"oAP": "\/_uploads\/wiley.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -4513,34 +3834,6 @@
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
-		},
-	"\/assets\/fonts\/atlas-grotesk-regular.woff": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/assets\/fonts\/atlas-grotesk-regular.woff",
-		"oF": 0
-		},
-	"\/assets\/fonts\/atlas-grotesk-regular.woff2": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/assets\/fonts\/atlas-grotesk-regular.woff2",
-		"oF": 0
-		},
-	"\/assets\/fonts\/futura-std-extra-bold-oblique.woff": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/assets\/fonts\/futura-std-extra-bold-oblique.woff",
-		"oF": 0
-		},
-	"\/assets\/fonts\/futura-std-extra-bold-oblique.woff2": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/assets\/fonts\/futura-std-extra-bold-oblique.woff2",
-		"oF": 0
 		},
 	"\/assets\/fonts\/larsseit-extra-bold-italic.woff": {
 		"cB": 0,
@@ -5393,7 +4686,7 @@
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/bower_components\/aos\/dist\/aos.js",
 		"oF": 0,
 		"sC": 1,
@@ -11165,7 +10458,7 @@
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/bower_components\/motion-ui\/dist\/motion-ui.js",
 		"oF": 0,
 		"sC": 1,
@@ -12356,7 +11649,7 @@
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/bower_components\/what-input\/dist\/what-input.js",
 		"oF": 0,
 		"sC": 1,
@@ -12691,6 +11984,24 @@
 			"followForSyntaxChecking": 0,
 			"linkedFileAbbreviatedPath": "\/bower_components\/foundation-sites\/dist\/js\/foundation.js",
 			"position": 1,
+			"type": 0
+			},
+		{
+			"followForSyntaxChecking": 0,
+			"linkedFileAbbreviatedPath": "\/bower_components\/aos\/dist\/aos.js",
+			"position": 2,
+			"type": 0
+			},
+		{
+			"followForSyntaxChecking": 0,
+			"linkedFileAbbreviatedPath": "\/bower_components\/motion-ui\/dist\/motion-ui.js",
+			"position": 3,
+			"type": 0
+			},
+		{
+			"followForSyntaxChecking": 0,
+			"linkedFileAbbreviatedPath": "\/bower_components\/what-input\/dist\/what-input.js",
+			"position": 4,
 			"type": 0
 			}
 		]

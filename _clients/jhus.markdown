@@ -6,7 +6,7 @@ categories:
 tags:
 - artist
 position: 53
-image: "/uploads/Hus.jpg"
+image: "/uploads/j-hus.jpg"
 is-front: false
 is-radio-featured: true
 ---

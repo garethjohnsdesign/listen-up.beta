@@ -6,7 +6,7 @@ categories:
 tags:
 - label
 position: 40
-image: "/uploads/atlantic.jpg"
+image: "/uploads/atlantic-records.jpg"
 is-front: true
 ---
 

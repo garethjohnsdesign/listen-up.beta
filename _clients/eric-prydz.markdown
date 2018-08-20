@@ -6,7 +6,7 @@ categories:
 tags:
 - artist
 position: 132
-image: "/uploads/PRYDZ.jpg"
+image: "/uploads/eric-prydz.jpg"
 is-featured: false
 is-front: true
 is-club-featured: true

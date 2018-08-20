@@ -6,7 +6,7 @@ categories:
 tags:
 - festival
 position: 153
-image: "/uploads/we%20r.jpg"
+image: "/uploads/we-are-fstvl.jpg"
 is-featured: true
 is-front: true
 is-events-featured: true

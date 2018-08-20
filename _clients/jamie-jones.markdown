@@ -5,7 +5,7 @@ categories:
 tags:
 - artist
 position: 116
-image: "/uploads/Jamienew.jpg"
+image: "/uploads/jamie-jones.jpg"
 is-featured: true
 is-front: true
 is-digital-featured: false

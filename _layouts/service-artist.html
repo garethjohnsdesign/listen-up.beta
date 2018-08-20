@@ -3,23 +3,21 @@ layout: default
 ---
 
 <!-- Service Intro -->
-<div class="grid-container padding-vertical-3">
-<div class="grid-x grid-padding-x grid-padding-y">
-  <div class="small-10 medium-9 cell">
-    <h1>{{ page.title }}</h1>
-    <h3>{{ page.subtitle }}</h3>
-    {{ page.content }}
+<div class="grid-container">
+  <div class="grid-x grid-padding-x grid-padding-y">
+    <div class="small-12 medium-10 cell text-center medium-text-left">
+      <h2 class="secondary-font margin-bottom-2">{{ page.title }}</h2>
+      <h3 class="margin-bottom-2">{{ page.subtitle }}</h3>
+      {{ page.content }}
+    </div>
   </div>
 </div>
-</div>
 <!-- End Service Intro -->
-  
 
+<div class="grid-container">
 {% assign category = page.url | replace: 'services', '' | remove: "/" %}
 {% if category == 'artist' %}
-<div class="grid-container">
-  <div class="grid-x grid-padding-x grid-padding-y small-up-1 medium-up-3">
-    
+  <div class="grid-x grid-padding-x grid-padding-y small-up-1 medium-up-3">   
     {% assign clients = site.clients | sort: 'position' | where: "is-artist-featured", "true" %}
     {% for client in clients %}     
       <div class="cell">
@@ -27,11 +25,8 @@ layout: default
       </div>
     {% endfor %}  
   </div>
-</section>
 {% elsif category == 'events' %}
-<section class="service__clients__featured">
-  <div class="grid-x collapse small-up-1 medium-up-3">
-
+  <div class="grid-x grid-padding-x grid-padding-y small-up-1 medium-up-3">
     {% assign clients = site.clients | sort: 'position' | where: "is-events-featured", "true" %}
     {% for client in clients %}  
       <div class="cell">
@@ -39,11 +34,8 @@ layout: default
       </div> 
     {% endfor %}  
   </div>
-</section>
 {% elsif category == 'radio' %}
-<section class="service__clients__featured">
-  <div class="grid-x collapse small-up-1 medium-up-3">
-
+  <div class="grid-x grid-padding-x grid-padding-y small-up-1 medium-up-3">
     {% assign clients = site.clients | sort: 'position' | where: "is-radio-featured", "true" %}
     {% for client in clients %}     
       <div class="cell">
@@ -51,11 +43,8 @@ layout: default
       </div>
     {% endfor %}  
   </div>
-</section>
 {% elsif category == 'digital' %}
-<section class="service__clients__featured">
-  <div class="grid-x collapse small-up-1 medium-up-3">
-
+  <div class="grid-x grid-padding-x grid-padding-y small-up-1 medium-up-3">
     {% assign clients = site.clients | sort: 'position' | where: "is-digital-featured", "true" %}
     {% for client in clients %}    
       <div class="cell">
@@ -63,11 +52,8 @@ layout: default
       </div>     
     {% endfor %}  
   </div>
-</section>
 {% elsif category == 'club' %}
-<section class="service__clients__featured">
-  <div class="grid-x collapse small-up-1 medium-up-3">
-
+  <div class="grid-x grid-padding-x grid-padding-y small-up-1 medium-up-3">
     {% assign clients = site.clients | sort: 'position' | where: "is-club-featured", "true" %}
     {% for client in clients %}       
       <div class="cell">
@@ -75,38 +61,33 @@ layout: default
       </div> 
     {% endfor %}  
   </div>
-</section>
 {% endif %}
+</div>
 
 
-
+<div class="grid-container padding-vertical-2">
 <!-- Clients List -->
-<section class="service__list">
   <!-- Clients Category - Labels -->
-    <div class="grid-x service__category">
+    <div class="grid-x grid-padding-x grid-padding-y padding-vertical-2">
       
-      <div class="small-10 small-offset-1 medium-3 medium-offset-0 cell service__category__title">
-        <h4>Labels</h4>
+      <div class="small-12 medium-3 cell">
+        <h3 class="secondary-font text-center medium-text-left">Labels</h3>
       </div>
       
-      <div class="small-10 small-offset-1 medium-9 medium-offset-0 cell service__category__list">
-        <div class="grid-x small-up-1 medium-up-3"> 
-      {% assign category = page.url | replace: 'services', '' | remove: "/" %}
-      {% assign clients = site.clients | sort: 'title' %}
-      
-      {% for client in clients %}
-        {% if client.categories contains category %}    
-          {% if client.tags contains 'label' %}
-          <div class="small-12 cell">
+      <div class="small-12 medium-9 cell">
+        <div class="grid-x grid-padding-x small-up-2 medium-up-3"> 
+          {% assign category = page.url | replace: 'services', '' | remove: "/" %}
+          {% assign clients = site.clients | sort: 'title' %}
           
-          
-{% if client.website %}<a href="{{ client.website }}" target="_blank">{% elsif client.facebook %}<a href="{{ client.facebook }}" target="_blank">{% else %}<a href="{{ client.twitter }}" target="_blank">{% endif %}{{client.title}}</a>
-          
-          
-          </div>
-          {% endif %}
-        {% endif %}
-      {% endfor %} 
+          {% for client in clients %}
+            {% if client.categories contains category %}    
+              {% if client.tags contains 'label' %}
+              <div class="small-12 cell">          
+                {% if client.website %}<a href="{{ client.website }}" target="_blank">{% elsif client.facebook %}<a href="{{ client.facebook }}" target="_blank">{% else %}<a href="{{ client.twitter }}" target="_blank">{% endif %}{{client.title}}</a>
+              </div>
+              {% endif %}
+            {% endif %}
+          {% endfor %} 
         </div>
       </div>
     
@@ -114,14 +95,14 @@ layout: default
   <!-- End Clients Category - Labels -->
   
   <!-- Clients Category - Artists -->
-    <div class="grid-x service__category">
+    <div class="grid-x grid-padding-x grid-padding-y padding-vertical-2">
       
-      <div class="small-10 small-offset-1 medium-3 medium-offset-0 cell service__category__title">
-        <h4>Artists</h4>
+      <div class="small-12 medium-3 cell">
+        <h3 class="secondary-font text-center medium-text-left">Artists</h3>
       </div>
       
-      <div class="small-10 small-offset-1 medium-9 medium-offset-0 cell service__category__list">
-        <div class="grid-x small-up-1 medium-up-3"> 
+      <div class="small-12 medium-9 cell">
+        <div class="grid-x grid-padding-x small-up-2 medium-up-3"> 
           {% assign category = page.url | replace: 'services', '' | remove: "/" %}
           {% assign clients = site.clients | sort: 'title' %}
       
@@ -129,7 +110,7 @@ layout: default
           {% if client.categories contains category %}    
             {% if client.tags contains 'artist' %}
             <div class="small-12 cell">
-{% if client.website %}<a href="{{ client.website }}" target="_blank">{% elsif client.facebook %}<a href="{{ client.facebook }}" target="_blank">{% else %}<a href="{{ client.twitter }}" target="_blank">{% endif %}{{client.title}}</a>
+              {% if client.website %}<a href="{{ client.website }}" target="_blank">{% elsif client.facebook %}<a href="{{ client.facebook }}" target="_blank">{% else %}<a href="{{ client.twitter }}" target="_blank">{% endif %}{{client.title}}</a>
             </div>
             {% endif %}
           {% endif %}
@@ -139,6 +120,5 @@ layout: default
     
     </div>
   <!-- End Clients Category - Artists -->
-  
-</section>
+</div>
 <!-- End Clients List -->

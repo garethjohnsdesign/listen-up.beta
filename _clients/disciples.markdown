@@ -6,7 +6,7 @@ categories:
 tags:
 - artist
 position: 124
-image: "/uploads/disc.jpg"
+image: "/uploads/disciples.jpg"
 is-front: true
 is-radio-featured: true
 website: http://disciplesldn.com

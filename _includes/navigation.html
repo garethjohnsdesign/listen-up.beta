@@ -1,24 +1,24 @@
 {% for entry in site.data.navigation %}{% capture fullurl %}{{ site.baseurl }}{{ entry.url }}{% endcapture %}{% if fullurl == page.url %}{% assign current_page = fullurl %}{% break %}{% elsif page.url contains fullurl %}{% assign current_page = fullurl %}{% endif %}{% endfor %}
  
 <!-- Navigation -->
-<div class="grid-x grid-padding-x grid-padding-y align-justify navigation align-middle">
+<div class="grid-x grid-padding-x grid-padding-y align-justify navigation align-middle" id="top">
   
   <div class="auto cell">
     <a href="/"><svg class="icon icon-logo"><use xlink:href="/assets/icons/symbol-defs.svg#icon-logo"></use></svg></a>
   </div>
   
-  <div class="shrink cell text-right">
+  <div class="shrink cell">
 
-      <div class="show-for-small-only">
-        <button class="hamburger hamburger--collapse" id="toggle" data-toggler=".is-active" type="button" data-toggle="overlay toggle">
+      <div class="hide-for-large">
+        <button class="hamburger hamburger--collapse" data-toggler=".is-active" id="toggle" aria-label="menu" type="button" data-toggle="offCanvas toggle">
           <span class="hamburger-box">
           <span class="hamburger-inner"></span>
           </span>
         </button>
       </div>
       
-      <div class="show-for-medium">
-        <ul class="dropdown menu" data-dropdown-menu data-alignment="left">
+      <div class="show-for-large">
+        <ul class="dropdown menu" data-dropdown-menu>
           {% for entry in site.data.navigation %}
           {% if entry.url == current_page %}
           {% assign current = ' class="active"' %}
@@ -29,7 +29,7 @@
           {% if sublinks %}
           <li{{ current }}>
           <a href="{{ site.baseurl }}{{ entry.url }}">{{ entry.title }}</a>
-          <ul class="menu vertical">
+          <ul class="menu">
           {% for sublink in sublinks %}
           <li><a href="{{ site.baseurl }}{{ sublink.url }}">{{ sublink.title }}</a></li>
           {% endfor %}

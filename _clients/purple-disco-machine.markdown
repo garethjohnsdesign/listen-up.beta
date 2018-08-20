@@ -6,7 +6,7 @@ categories:
 tags:
 - artist
 position: 10
-image: "/uploads/PDM-58f4e4.jpg"
+image: "/uploads/purple-disco-machine.jpg"
 is-featured: false
 is-club-featured: true
 website: https://www.purplediscomachine.com/

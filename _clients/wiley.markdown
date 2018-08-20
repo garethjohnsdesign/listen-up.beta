@@ -6,7 +6,7 @@ categories:
 tags:
 - artist
 position: 114
-image: "/uploads/WileyLU.jpg"
+image: "/uploads/wiley.jpg"
 is-featured: true
 is-front: true
 is-radio-featured: false

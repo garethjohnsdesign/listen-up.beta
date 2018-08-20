@@ -6,7 +6,7 @@ categories:
 tags:
 - festival
 position: 217
-image: "/uploads/Parklife-c33927.jpg"
+image: "/uploads/parklife.jpg"
 is-featured: true
 is-front: true
 is-events-featured: true

@@ -4,14 +4,12 @@ categories:
 - artist
 - radio
 - press
-- artists
 tags:
-- artists
 - artist
 - press
 - radio
 position: 156
-image: "/uploads/Alison%20Wonderland.jpg"
+image: "/uploads/alison-wonderland.jpg"
 is-featured: true
 is-front: true
 website: http://www.alisonwonderland.com.au

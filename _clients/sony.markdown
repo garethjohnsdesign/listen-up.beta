@@ -9,7 +9,7 @@ categories:
 tags:
 - label
 position: 48
-image: "/uploads/SONY-547c0d.jpg"
+image: "/uploads/sony.jpg"
 is-front: true
 is-artist-featured: true
 is-streaming-featured: true

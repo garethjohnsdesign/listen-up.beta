@@ -6,7 +6,7 @@ categories:
 tags:
 - label
 position: 328
-image: "/uploads/Warner.jpg"
+image: "/uploads/warner-records.jpg"
 is-front: true
 facebook: https://www.facebook.com/WarnerBrosRecords
 ---

@@ -174,16 +174,16 @@ $header-styles: (
 */
 $header-styles: (
   'small': (
-    'h1': ('font-size': 40, 'line-height': 1.2, 'margin-top': 0, 'margin-bottom': $header-margin-bottom),
-    'h2': ('font-size': 32, 'line-height': $header-lineheight, 'margin-top': 0, 'margin-bottom': $header-margin-bottom),
-    'h3': ('font-size': 24, 'line-height': $header-lineheight, 'margin-top': 0, 'margin-bottom': $header-margin-bottom),
-    'h4': ('font-size': 20, 'line-height': $header-lineheight, 'margin-top': 0, 'margin-bottom': $header-margin-bottom),
+    'h1': ('font-size': 48, 'line-height': 1.2, 'margin-top': 0, 'margin-bottom': $header-margin-bottom),
+    'h2': ('font-size': 36, 'line-height': 1.2, 'margin-top': 0, 'margin-bottom': $header-margin-bottom),
+    'h3': ('font-size': 30, 'line-height': 1.2, 'margin-top': 0, 'margin-bottom': $header-margin-bottom),
+    'h4': ('font-size': 24, 'line-height': $header-lineheight, 'margin-top': 0, 'margin-bottom': $header-margin-bottom),
     'h5': ('font-size': 20, 'line-height': $header-lineheight, 'margin-top': 0, 'margin-bottom': $header-margin-bottom),
     'h6': ('font-size': 20, 'line-height': $header-lineheight, 'margin-top': 0, 'margin-bottom': $header-margin-bottom)
   ),
   'medium': (
     'h1': ('font-size': 48, 'line-height': 1.2, 'margin-top': 0, 'margin-bottom': $header-margin-bottom),
-    'h2': ('font-size': 36, 'line-height': $header-lineheight, 'margin-top': 0, 'margin-bottom': $header-margin-bottom),
+    'h2': ('font-size': 36, 'line-height': 1.2, 'margin-top': 0, 'margin-bottom': $header-margin-bottom),
     'h3': ('font-size': 31, 'line-height': $header-lineheight, 'margin-top': 0, 'margin-bottom': $header-margin-bottom),
     'h4': ('font-size': 24, 'line-height': $header-lineheight, 'margin-top': 0, 'margin-bottom': $header-margin-bottom),
     'h5': ('font-size': 20, 'line-height': $header-lineheight, 'margin-top': 0, 'margin-bottom': $header-margin-bottom),
@@ -191,9 +191,9 @@ $header-styles: (
   ),
   'large': (
     'h1': ('font-size': 96, 'line-height': 1.1, 'margin-top': 0, 'margin-bottom': $header-margin-bottom),
-    'h2': ('font-size': 48, 'line-height': 1.2, 'margin-top': 0, 'margin-bottom': $header-margin-bottom),
-    'h3': ('font-size': 36, 'line-height': $header-lineheight, 'margin-top': 0, 'margin-bottom': $header-margin-bottom),
-    'h4': ('font-size': 24, 'line-height': $header-lineheight, 'margin-top': 0, 'margin-bottom': $header-margin-bottom),
+    'h2': ('font-size': 40, 'line-height': 1.2, 'margin-top': 0, 'margin-bottom': $header-margin-bottom),
+    'h3': ('font-size': 36, 'line-height': 1.2, 'margin-top': 0, 'margin-bottom': $header-margin-bottom),
+    'h4': ('font-size': 24, 'line-height': 1.2, 'margin-top': 0, 'margin-bottom': $header-margin-bottom),
     'h5': ('font-size': 20, 'line-height': $header-lineheight, 'margin-top': 0, 'margin-bottom': $header-margin-bottom),
     'h6': ('font-size': 14, 'line-height': $header-lineheight, 'margin-top': 0, 'margin-bottom': $header-margin-bottom)
   ),
@@ -447,16 +447,16 @@ $dropdownmenu-arrows: false;
 $dropdownmenu-arrow-color: $white;
 $dropdownmenu-arrow-size: 6px;
 $dropdownmenu-arrow-padding: 1.5rem;
-$dropdownmenu-min-width: 200px;
+// $dropdownmenu-min-width: 200px;
+$dropdownmenu-min-width: 300px;
 // $dropdownmenu-background: $white;
-$dropdownmenu-background: $primary-color;
-$dropdownmenu-background: transparent;
+$dropdownmenu-background: $white;
 $dropdownmenu-submenu-background: $dropdownmenu-background;
 $dropdownmenu-padding: $global-menu-padding;
 $dropdownmenu-nested-margin: 0;
 $dropdownmenu-submenu-padding: $dropdownmenu-padding;
 // $dropdownmenu-border: 1px solid $medium-gray;
-$dropdownmenu-border: 0px solid $medium-gray;
+$dropdownmenu-border: 1px solid $medium-gray;
 // $dropdown-menu-item-color-active: get-color(primary);
 $dropdown-menu-item-color-active: $black;
 // $dropdown-menu-item-background-active: $primary-color;
@@ -945,8 +945,8 @@ $grid-margin-gutters: (
 */
 $grid-margin-gutters: (
   small: 2rem,
-  medium: 3rem,
-  large: 4rem
+  medium: 2rem,
+  large: 3rem
 );
 $grid-padding-gutters: $grid-margin-gutters;
 $grid-container-padding: $grid-padding-gutters;

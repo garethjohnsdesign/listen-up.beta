@@ -5,7 +5,7 @@ categories:
 - club
 tags:
 - artist
-image: "/uploads/CHRIstoph-dfc39e.jpg"
+image: "/uploads/christoph-rev.jpg"
 is-club-featured: true
 ---
 

@@ -5,7 +5,7 @@ categories:
 tags:
 - artist
 position: 290
-image: "/uploads/sigalaLU.jpg"
+image: "/uploads/sigala.jpg"
 is-front: false
 is-radio-featured: true
 facebook: https://www.facebook.com/sigalamusic

@@ -7,7 +7,6 @@ categories:
 tags:
 - label
 position: 57
-image: "/uploads/BMG.jpg"
+image: "/uploads/bmg-music.jpg"
 is-streaming-featured: true
 ---
-

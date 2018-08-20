@@ -6,7 +6,7 @@ categories:
 tags:
 - artist
 position: 26
-image: "/uploads/jonasbluepressshot.jpg"
+image: "/uploads/jonas-blue.jpg"
 is-featured: true
 is-front: true
 ---

@@ -119,7 +119,7 @@ p a {
 
 .navigation {
   .cell {
-	z-index: 14; 
+	z-index: 17; 
   }
   @include links ($primary-color, $black)
 }
@@ -128,7 +128,7 @@ p a {
   &,
   &::before,
   &::after {
-    background-color: $white;
+    background-color: $black;
   }
 }
 
@@ -142,14 +142,6 @@ p a {
 // 8. Layout
 // ---------
 
-.hero {
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: center center;
-  height: 85vh;
-  background-color: $light-gray;
-}
-
 // 9. Home
 // -------
 
@@ -158,6 +150,18 @@ p a {
   top: 0;
   left: 0;
   width: 100%;
+}
+
+.home .navigation .hamburger-inner {
+  &,
+  &::before,
+  &::after {
+    background-color: $white;
+  }
+}
+
+.home .is-dropdown-submenu {
+  background-color: transparent;
 }
 
 
@@ -192,10 +196,6 @@ footer {
   height: 20rem;
 }
 
-.hero .cell {
-  z-index: 1000;
-}
-
 .hero video {
   object-fit: cover;
   width: 100%;
@@ -203,6 +203,11 @@ footer {
   position: absolute;
   top: 0;
   left: 0;
+  z-index: -1;
+}
+
+.plus {
+  color: $primary-color;
 }
 
 .plus:after {
@@ -234,6 +239,10 @@ footer {
   color: $white;
   z-index: 1;
   opacity: 1;
+//   background-color: red;
+  background: linear-gradient(
+                     rgba(20,20,20, .6),  
+                     rgba(20,20,20, .6),)
 }
 
 
@@ -251,5 +260,18 @@ footer {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
-  height: 90vh;
+  height: 100vh;
+  @include links ($white, $primary-color)
+}
+
+.hero__arrow {
+  @include padding(1.5,1.5,1.5,1.5);
+  @include breakpoint(medium) {
+    @include padding(2,2,2,2);
+  }
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  z-index: 1;
+  width: 100%;
 }

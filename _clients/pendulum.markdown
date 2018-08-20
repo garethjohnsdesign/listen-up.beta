@@ -6,7 +6,7 @@ categories:
 - press
 tags:
 - artist
-image: "/uploads/Pendulum.jpg"
+image: "/uploads/pendulum.jpg"
 is-front: true
 is-artist-featured: true
 website: http://pendulum.com/
