@@ -1,3 +1,5 @@
+$(document).on('turbolinks:load', function() {
+
 $(document).foundation();
 
 // 2. Animate on Scroll
@@ -13,4 +15,6 @@ $(function() {
 
 $(function() {
 window.addEventListener('load', AOS.refresh);
+});
+
 });

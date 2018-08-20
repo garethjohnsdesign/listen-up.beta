@@ -3100,17 +3100,6 @@
 		"opt": 0,
 		"q": 100
 		},
-	"\/_uploads\/Jamienew.jpg": {
-		"ft": 16384,
-		"iS": 61050,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/_uploads\/Jamienew.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
 	"\/_uploads\/jhus.jpg": {
 		"ft": 16384,
 		"iS": 265798,
@@ -3958,6 +3947,16 @@
 		"oAP": "\/assets\/js\/min\/app-min.js",
 		"oF": 0,
 		"sC": 0,
+		"tS": 0
+		},
+	"\/assets\/js\/links.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/assets\/js\/min\/links-min.js",
+		"oF": 0,
+		"sC": 1,
 		"tS": 0
 		},
 	"\/assets\/js\/min\/app-min.js": {
@@ -11173,7 +11172,7 @@
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/bower_components\/turbolinks5\/dist\/turbolinks.js",
 		"oF": 0,
 		"sC": 1,
@@ -12002,6 +12001,14 @@
 			"followForSyntaxChecking": 0,
 			"linkedFileAbbreviatedPath": "\/bower_components\/what-input\/dist\/what-input.js",
 			"position": 4,
+			"type": 0
+			}
+		],
+	"\/assets\/js\/links.js": [
+		{
+			"followForSyntaxChecking": 0,
+			"linkedFileAbbreviatedPath": "\/bower_components\/turbolinks5\/dist\/turbolinks.js",
+			"position": 0,
 			"type": 0
 			}
 		]
