@@ -11,6 +11,5 @@ is-featured: false
 is-front: true
 is-artist-featured: true
 facebook: https://www.facebook.com/virginrecords
-layout: client
 ---
 

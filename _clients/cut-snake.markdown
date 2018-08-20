@@ -13,6 +13,5 @@ spotify: https://play.spotify.com/artist/5z7jsdhxqvsOxzZxfVF236
 soundcloud: http://soundcloud.com/cutsnake
 youtube: http://youtube.com/cutsnakemusic
 apple: https://itunes.apple.com/gb/artist/cut-snake/id575515254
-layout: client
 ---
 

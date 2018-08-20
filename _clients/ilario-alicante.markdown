@@ -6,6 +6,5 @@ tags:
 - artist
 position: 249
 facebook: https://www.facebook.com/ILARIOALICANTEOFFICIAL/
-layout: client
 ---
 

@@ -1,3 +1,7 @@
+---
+layout: compress
+---
+
 <!DOCTYPE html>
 <html class="no-js" lang="en" dir="ltr">
 
@@ -7,13 +11,13 @@
 
 <body>
   
-<!-- Navigation -->  
+<!-- Navigation -->
+{% unless page.layout == "home" %}
+<!-- Testimonials -->
 {% include navigation.html %}
+<!-- End Testimonials -->
+{% endunless %}
 <!-- End Navigation -->
-
-<!-- Menu -->  
-{% include overlay-menu.html %}
-<!-- End Menu --> 
 
 <!-- Content -->
 {{ content }}

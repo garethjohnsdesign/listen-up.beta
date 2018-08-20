@@ -13,7 +13,6 @@ spotify: https://open.spotify.com/artist/1bpzpALZwOoKXzwMg2i8WB
 soundcloud: http://soundcloud.com/dirtysouth
 youtube: http://youtube.com/dirtysouth
 apple: https://itunes.apple.com/gb/artist/dirty-south/id82377540
-layout: client
 ---
 
 Kicking his career off as a mash-up artist, Serbian-Australian producer Dragan Roganović has released many successful EDM productions and remixes under the moniker of Dirty South.

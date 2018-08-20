@@ -4,6 +4,5 @@ tags:
 - artist
 position: 215
 facebook: https://www.facebook.com/NocturnalSunshineOfficial
-layout: client
 ---
 

@@ -11,6 +11,5 @@ is-featured: true
 is-front: true
 is-club-featured: true
 facebook: https://www.facebook.com/kolschofficial
-layout: client
 ---
 

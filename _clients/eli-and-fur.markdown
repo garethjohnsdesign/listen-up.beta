@@ -11,6 +11,5 @@ is-featured: false
 is-front: false
 is-club-featured: true
 facebook: https://www.facebook.com/eliandfur
-layout: client
 ---
 

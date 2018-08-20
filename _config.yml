@@ -53,7 +53,6 @@ defaults:
     soundcloud: 
     youtube: 
     apple: 
-    layout: client
 - scope:
     path: ''
     type: team
@@ -62,7 +61,7 @@ defaults:
     job-title: 
     is-featured: 
     email: 
-url: http://listen-up.com
+url: https://www.listen-up.com
 description: Listen Up provides a bespoke 360 promotional service offering radio,
   club, online and print campaigns in the UK and worldwide.
 permalink: pretty
@@ -78,17 +77,18 @@ exclude:
 - ".gitignore"
 - bower_components
 - assets/scss
-gems:
+plugins:
 - jekyll-seo-tag
 - jekyll-sitemap
 - jekyll-feed
+- jekyll/imgix
 markdown: kramdown
 kramdown:
   input: GFM
   hard_wrap: false
 highlighter: rouge
 company: Listen Up Online Promotions Ltd
-email: hello@listen-up.com
+email: hello@listen-up.biz
 google_site_verification: Kx8OEQISNl9almmvWKiQXaeKUy4594ZKTdBHw3mYoy8
 analytics: UA-91478170-1
 logo: "/assets/img/logo.svg"
@@ -106,3 +106,5 @@ compress_html:
   - " -->"
   blanklines: true
   profile: false
+imgix:
+  source: listen-up.imgix.net

@@ -8,6 +8,5 @@ tags:
 - artist
 position: 133
 facebook: https://www.facebook.com/ErickMorilloOfficial
-layout: client
 ---
 

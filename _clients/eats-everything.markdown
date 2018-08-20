@@ -15,7 +15,6 @@ spotify: https://open.spotify.com/artist/4W991QdgKWX4TO864ypInA
 soundcloud: https://soundcloud.com/eatseverything
 youtube: https://www.youtube.com/user/MrEatsEverything
 apple: https://itunes.apple.com/gb/artist/eats-everything/id380848817
-layout: client
 ---
 
 Bristol, England DJ and producer Eats Everything started out spinning jungle and drum'n'bass. Over the years, the man born Daniel Pearce incorporated more bass-loaded house into his repertoire, crafting a party-starting sound the likes of Carl Cox.

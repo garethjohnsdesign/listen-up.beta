@@ -3,43 +3,41 @@ layout: default
 ---
 
 <!-- Intro -->
-<section class="clients__intro">
-    <div class="row">
-      <div class="small-10 small-offset-1 medium-9 medium-offset-0 columns">
-        <h3>{{page.intro}}</h3>
-      </div>
+<div class="grid-container padding-vertical-3">
+  <div class="grid-x grid-padding-x grid-padding-y align-center">
+    <div class="small-12 medium-10 cell text-center">
+      <h3>{{page.intro}}</h3>
     </div>
-</section>
+  </div>
+</div>
 <!-- End Intro -->
 
 <!-- Featured Clients -->
-<section class="clients__featured">
-<div class="row collapse small-up-1 medium-up-3">
+<div class="grid-container">
+<div class="grid-x grid-padding-x grid-padding-y small-up-1 medium-up-3">
   {% assign clients = site.clients | sort: 'position' | where: "is-featured", "true" %}
   {% for client in clients %}
-    <div class="columns">
-    {% include client-excerpt.html %}
-    </div> 
+    {% include excerpt.html %}
   {% endfor %}
 </div>
-</section>
+</div>
 <!-- End Featured Clients -->
 
 <!-- Clients List -->
-<section class="clients__list">
+<div class="grid-container padding-bottom-3">
   <!-- Clients Category - Labels -->
-    <div class="row clients__category">
+    <div class="grid-x grid-padding-x grid-padding-y">
       
-      <div class="small-10 small-offset-1 medium-3 medium-offset-0 columns clients__category__title">
-        <h4>Labels</h4>
+      <div class="small-10 medium-3 cell">
+        <h3 class="secondary-font">Labels</h3>
       </div>
       
-      <div class="small-10 small-offset-1 medium-9 medium-offset-0 columns clients__category__list">
-        <div class="row small-up-1 medium-up-3">
+      <div class="small-10 medium-9 cell">
+        <div class="grid-x small-up-1 medium-up-3">
         {% assign clients = site.clients | sort: 'title' %}
         {% for client in clients %}
           {% if client.tags contains 'label' %}
-            <div class="columns">
+            <div class="cell">
 {% if client.website %}<a href="{{ client.website }}" target="_blank">{% elsif client.facebook %}<a href="{{ client.facebook }}" target="_blank">{% else %}<a href="{{ client.twitter }}" target="_blank">{% endif %}{{client.title}}</a>
 
             </div>
@@ -52,18 +50,18 @@ layout: default
   <!-- End Clients Category - Labels -->
   
   <!-- Clients Category - Artists -->
-    <div class="row clients__category">
+    <div class="grid-x grid-padding-x grid-padding-y">
       
-      <div class="small-10 small-offset-1 medium-3 medium-offset-0 columns clients__category__title">
-        <h4>Artists</h4>
+      <div class="small-10 medium-3 cell">
+        <h3 class="secondary-font">Artists</h3>
       </div>
       
-      <div class="small-10 small-offset-1 medium-9 medium-offset-0 columns clients__category__list">
-        <div class="row small-up-1 medium-up-3"> 
+      <div class="small-10 medium-9 cell">
+        <div class="grid-x small-up-1 medium-up-3"> 
         {% assign clients = site.clients | sort: 'title' %}
         {% for client in clients %}
           {% if client.tags contains 'artist' %}
-            <div class="columns">
+            <div class="cell">
 {% if client.website %}<a href="{{ client.website }}" target="_blank">{% elsif client.facebook %}<a href="{{ client.facebook }}" target="_blank">{% else %}<a href="{{ client.twitter }}" target="_blank">{% endif %}{{client.title}}</a>
 
             </div>
@@ -76,18 +74,18 @@ layout: default
   <!-- End Clients Category - Artists -->
   
   <!-- Clients Category - Festivals -->
-    <div class="row clients__category">
+    <div class="grid-x grid-padding-x grid-padding-y">
       
-      <div class="small-10 small-offset-1 medium-3 medium-offset-0 columns clients__category__title">
-        <h4>Festivals</h4>
+      <div class="small-10 medium-3 cell">
+        <h3 class="secondary-font">Festivals</h3>
       </div>
       
-      <div class="small-10 small-offset-1 medium-9 medium-offset-0 columns clients__category__list">
-        <div class="row small-up-1 medium-up-3"> 
+      <div class="small-10 medium-9 cell">
+        <div class="grid-x small-up-1 medium-up-3"> 
         {% assign clients = site.clients | sort: 'title' %}
         {% for client in clients %}
           {% if client.tags contains 'festival' %}
-            <div class="columns">
+            <div class="cell">
 {% if client.website %}<a href="{{ client.website }}" target="_blank">{% elsif client.facebook %}<a href="{{ client.facebook }}" target="_blank">{% else %}<a href="{{ client.twitter }}" target="_blank">{% endif %}{{client.title}}</a>
 
             </div>
@@ -100,18 +98,18 @@ layout: default
   <!-- End Clients Category - Festivals -->
   
   <!-- Clients Category - Venues -->
-    <div class="row clients__category">
+    <div class="grid-x grid-padding-x grid-padding-y">
       
-      <div class="small-10 small-offset-1 medium-3 medium-offset-0 columns clients__category__title">
-        <h4>Venues and Brands</h4>
+      <div class="small-10 medium-3 cell">
+        <h3 class="secondary-font">Venues and Brands</h3>
       </div>
       
-      <div class="small-10 small-offset-1 medium-9 medium-offset-0 columns clients__category__list">
-        <div class="row small-up-1 medium-up-3"> 
+      <div class="small-10 medium-9 cell">
+        <div class="grid-x small-up-1 medium-up-3"> 
         {% assign clients = site.clients | sort: 'title' %}
         {% for client in clients %}
           {% if client.tags contains 'venue' %}
-            <div class="columns">
+            <div class="cell">
 {% if client.website %}<a href="{{ client.website }}" target="_blank">{% elsif client.facebook %}<a href="{{ client.facebook }}" target="_blank">{% else %}<a href="{{ client.twitter }}" target="_blank">{% endif %}{{client.title}}</a>
 
             </div>
@@ -122,5 +120,5 @@ layout: default
     
     </div>
   <!-- End Clients Category - Venues -->
-</section>
+</div>
 <!-- End Clients List -->
