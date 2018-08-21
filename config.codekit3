@@ -2869,12 +2869,12 @@
 		"opt": 0,
 		"q": 100
 		},
-	"\/_uploads\/desolat.jpg": {
+	"\/_uploads\/Desolat.jpg": {
 		"ft": 16384,
-		"iS": 77237,
+		"iS": 25235,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/_uploads\/desolat.jpg",
+		"oAP": "\/_uploads\/Desolat.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -2913,12 +2913,12 @@
 		"opt": 0,
 		"q": 100
 		},
-	"\/_uploads\/djds.jpg": {
+	"\/_uploads\/DJDS.jpg": {
 		"ft": 16384,
-		"iS": 362772,
+		"iS": 99437,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/_uploads\/djds.jpg",
+		"oAP": "\/_uploads\/DJDS.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -3397,12 +3397,12 @@
 		"opt": 0,
 		"q": 100
 		},
-	"\/_uploads\/pendulum.jpg": {
+	"\/_uploads\/Pendulum.jpg": {
 		"ft": 16384,
-		"iS": 223116,
+		"iS": 39217,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/_uploads\/pendulum.jpg",
+		"oAP": "\/_uploads\/Pendulum.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -3430,12 +3430,12 @@
 		"opt": 0,
 		"q": 100
 		},
-	"\/_uploads\/saved.jpg": {
+	"\/_uploads\/SAved.jpg": {
 		"ft": 16384,
-		"iS": 193577,
+		"iS": 65414,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/_uploads\/saved.jpg",
+		"oAP": "\/_uploads\/SAved.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -3496,12 +3496,12 @@
 		"opt": 0,
 		"q": 100
 		},
-	"\/_uploads\/spinnin.jpg": {
+	"\/_uploads\/Spinnin.jpg": {
 		"ft": 16384,
-		"iS": 22165,
+		"iS": 14389,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/_uploads\/spinnin.jpg",
+		"oAP": "\/_uploads\/Spinnin.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -3965,6 +3965,16 @@
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/assets\/js\/min\/min\/app-min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/assets\/js\/min\/links-min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/assets\/js\/min\/min\/links-min-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -11183,13 +11193,6 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/bower_components\/turbolinks5\/Gemfile",
-		"oF": 0
-		},
-	"\/bower_components\/turbolinks5\/Gemfile.lock": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/bower_components\/turbolinks5\/Gemfile.lock",
 		"oF": 0
 		},
 	"\/bower_components\/turbolinks5\/LICENSE": {
