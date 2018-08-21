@@ -17,7 +17,7 @@
     {% assign clients = site.clients | sort: 'position' | where: "is-artist-and-label-featured", "true" %}
     {% for client in clients %}     
       <div class="cell">
-       {% include client-excerpt.html %}
+       {% include excerpt.html %}
       </div>
     {% endfor %}  
   </div>
@@ -26,7 +26,7 @@
     {% assign clients = site.clients | sort: 'position' | where: "is-events-press-featured", "true" %}
     {% for client in clients %}  
       <div class="cell">
-       {% include client-excerpt.html %}
+       {% include excerpt.html %}
       </div> 
     {% endfor %}  
   </div>
@@ -35,7 +35,7 @@
     {% assign clients = site.clients | sort: 'position' | where: "is-daytime-radio-featured", "true" %}
     {% for client in clients %}     
       <div class="cell">
-       {% include client-excerpt.html %}
+       {% include excerpt.html %}
       </div>
     {% endfor %}  
   </div>
@@ -44,7 +44,7 @@
     {% assign clients = site.clients | sort: 'position' | where: "is-specialist-radio-and-club-featured", "true" %}
     {% for client in clients %}    
       <div class="cell">
-       {% include client-excerpt.html %}
+       {% include excerpt.html %}
       </div>     
     {% endfor %}  
   </div>
@@ -53,7 +53,7 @@
     {% assign clients = site.clients | sort: 'position' | where: "is-streaming-promotion-featured", "true" %}
     {% for client in clients %}       
       <div class="cell">
-       {% include client-excerpt.html %}  
+       {% include excerpt.html %}  
       </div> 
     {% endfor %}  
   </div>

@@ -2256,11 +2256,11 @@
 		"oAP": "\/_includes\/analytics.html",
 		"oF": 0
 		},
-	"\/_includes\/client-excerpt.html": {
+	"\/_includes\/excerpt.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/_includes\/client-excerpt.html",
+		"oAP": "\/_includes\/excerpt.html",
 		"oF": 0
 		},
 	"\/_includes\/footer.html": {
@@ -2352,13 +2352,6 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_includes\/service-venues-and-brands.html",
-		"oF": 0
-		},
-	"\/_includes\/team-excerpt.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_includes\/team-excerpt.html",
 		"oF": 0
 		},
 	"\/_layouts\/clients.html": {

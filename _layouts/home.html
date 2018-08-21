@@ -48,7 +48,7 @@ layout: default
   {% assign clients = site.clients | sort: 'position' | where: "is-front", "true" | sample:9 %}
   {% for client in clients %}
     <div class="cell">
-    {% include client-excerpt.html %}
+    {% include excerpt.html %}
     </div>
   {% endfor %}
 </div>
