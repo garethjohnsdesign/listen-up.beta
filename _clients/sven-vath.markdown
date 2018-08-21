@@ -1,7 +1,7 @@
 ---
 title: Sven Väth
 categories:
-- artist
+- artist-and-label-press
 tags:
 - artist
 position: 307

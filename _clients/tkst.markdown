@@ -1,8 +1,7 @@
 ---
 title: TKST
-date: 2018-03-16 11:48:00 Z
 categories:
-- artist
+- artist-and-label-press
 tags:
 - artist
 ---

@@ -1,7 +1,7 @@
 ---
 title: Booka Shade
 categories:
-- artist
+- artist-and-label-press
 tags:
 - artist
 position: 163

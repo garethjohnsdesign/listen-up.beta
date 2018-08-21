@@ -1,5 +1,7 @@
 ---
 title: Diversion
+categories:
+- artist-and-label-press
 tags:
 - artist
 position: 175

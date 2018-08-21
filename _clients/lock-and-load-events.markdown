@@ -1,7 +1,7 @@
 ---
 title: Lock and Load Events
 categories:
-- events
+- events-press
 tags:
 - festival
 position: 201

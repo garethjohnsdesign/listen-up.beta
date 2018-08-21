@@ -1,7 +1,7 @@
 ---
 title: Mixmag
 categories:
-- radio
+- daytime-radio
 - artist
 tags:
 - publication

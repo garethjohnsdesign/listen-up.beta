@@ -1,8 +1,7 @@
 ---
 title: Insanity
-date: 2017-10-10 11:49:00 Z
 categories:
-- club
+- specialist-radio-and-club
 tags:
 - label
 ---

@@ -1,7 +1,7 @@
 ---
 title: Generik
 categories:
-- artist
+- artist-and-label-press
 tags:
 - artist
 position: 241

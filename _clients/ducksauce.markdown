@@ -1,7 +1,7 @@
 ---
 title: Duck Sauce
 categories:
-- artist
+- artist-and-label-press
 tags:
 - artist
 position: 179

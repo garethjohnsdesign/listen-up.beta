@@ -1,7 +1,7 @@
 ---
 title: Warner Bros Records
 categories:
-- radio
+- daytime-radio
 - artist
 tags:
 - label

@@ -681,13 +681,6 @@
 		"oAP": "\/_clients\/extrema-outdoor-belgium.markdown",
 		"oF": 0
 		},
-	"\/_clients\/fabric.markdown": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_clients\/fabric.markdown",
-		"oF": 0
-		},
 	"\/_clients\/fat-nick.markdown": {
 		"cB": 0,
 		"ft": 8192,
@@ -847,20 +840,6 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_clients\/hospitality-on-the-beach.markdown",
-		"oF": 0
-		},
-	"\/_clients\/housekeeping.markdown": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_clients\/housekeeping.markdown",
-		"oF": 0
-		},
-	"\/_clients\/hysteria-records.markdown": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_clients\/hysteria-records.markdown",
 		"oF": 0
 		},
 	"\/_clients\/hysteria.markdown": {
@@ -1500,11 +1479,11 @@
 		"oAP": "\/_clients\/ocean-park-standoff-vs-seeb.markdown",
 		"oF": 0
 		},
-	"\/_clients\/oliver-heldens-d1dc96.markdown": {
+	"\/_clients\/oliver-heldens.markdown": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/_clients\/oliver-heldens-d1dc96.markdown",
+		"oAP": "\/_clients\/oliver-heldens.markdown",
 		"oF": 0
 		},
 	"\/_clients\/onelove.markdown": {
@@ -2305,6 +2284,13 @@
 		"oAP": "\/_includes\/images\/excerpt.html",
 		"oF": 0
 		},
+	"\/_includes\/link.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_includes\/link.html",
+		"oF": 0
+		},
 	"\/_includes\/map-script.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -2331,6 +2317,41 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/_includes\/scripts.html",
+		"oF": 0
+		},
+	"\/_includes\/service-artists.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_includes\/service-artists.html",
+		"oF": 0
+		},
+	"\/_includes\/service-festivals.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_includes\/service-festivals.html",
+		"oF": 0
+		},
+	"\/_includes\/service-labels.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_includes\/service-labels.html",
+		"oF": 0
+		},
+	"\/_includes\/service-top.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_includes\/service-top.html",
+		"oF": 0
+		},
+	"\/_includes\/service-venues-and-brands.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_includes\/service-venues-and-brands.html",
 		"oF": 0
 		},
 	"\/_includes\/team-excerpt.html": {
@@ -2382,39 +2403,39 @@
 		"oAP": "\/_layouts\/missing.html",
 		"oF": 0
 		},
-	"\/_layouts\/service-artist.html": {
+	"\/_layouts\/service-artist-and-label-press.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/_layouts\/service-artist.html",
+		"oAP": "\/_layouts\/service-artist-and-label-press.html",
 		"oF": 0
 		},
-	"\/_layouts\/service-club.html": {
+	"\/_layouts\/service-daytime-radio.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/_layouts\/service-club.html",
+		"oAP": "\/_layouts\/service-daytime-radio.html",
 		"oF": 0
 		},
-	"\/_layouts\/service-events.html": {
+	"\/_layouts\/service-events-press.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/_layouts\/service-events.html",
+		"oAP": "\/_layouts\/service-events-press.html",
 		"oF": 0
 		},
-	"\/_layouts\/service-radio.html": {
+	"\/_layouts\/service-specialist-radio-and-club.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/_layouts\/service-radio.html",
+		"oAP": "\/_layouts\/service-specialist-radio-and-club.html",
 		"oF": 0
 		},
-	"\/_layouts\/service-streaming.html": {
+	"\/_layouts\/service-streaming-promotion.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/_layouts\/service-streaming.html",
+		"oAP": "\/_layouts\/service-streaming-promotion.html",
 		"oF": 0
 		},
 	"\/_layouts\/services.html": {
@@ -2431,32 +2452,32 @@
 		"oAP": "\/_layouts\/team.html",
 		"oF": 0
 		},
-	"\/_services\/artist.markdown": {
+	"\/_services\/artist-and-label-press.markdown": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/_services\/artist.markdown",
+		"oAP": "\/_services\/artist-and-label-press.markdown",
 		"oF": 0
 		},
-	"\/_services\/club.markdown": {
+	"\/_services\/daytime-radio.markdown": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/_services\/club.markdown",
+		"oAP": "\/_services\/daytime-radio.markdown",
 		"oF": 0
 		},
-	"\/_services\/events.markdown": {
+	"\/_services\/events-press.markdown": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/_services\/events.markdown",
+		"oAP": "\/_services\/events-press.markdown",
 		"oF": 0
 		},
-	"\/_services\/radio.markdown": {
+	"\/_services\/specialist-radio-and-club.markdown": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/_services\/radio.markdown",
+		"oAP": "\/_services\/specialist-radio-and-club.markdown",
 		"oF": 0
 		},
 	"\/_services\/streaming-promotion.markdown": {
@@ -2869,12 +2890,12 @@
 		"opt": 0,
 		"q": 100
 		},
-	"\/_uploads\/Desolat.jpg": {
+	"\/_uploads\/desolat.jpg": {
 		"ft": 16384,
-		"iS": 25235,
+		"iS": 77237,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/_uploads\/Desolat.jpg",
+		"oAP": "\/_uploads\/desolat.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -2913,12 +2934,12 @@
 		"opt": 0,
 		"q": 100
 		},
-	"\/_uploads\/DJDS.jpg": {
+	"\/_uploads\/djds.jpg": {
 		"ft": 16384,
-		"iS": 99437,
+		"iS": 362772,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/_uploads\/DJDS.jpg",
+		"oAP": "\/_uploads\/djds.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -3078,12 +3099,12 @@
 		"opt": 0,
 		"q": 100
 		},
-	"\/_uploads\/jacob plant.jpg": {
+	"\/_uploads\/jacob-plant.jpg": {
 		"ft": 16384,
 		"iS": 243146,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/_uploads\/jacob plant.jpg",
+		"oAP": "\/_uploads\/jacob-plant.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -3397,12 +3418,12 @@
 		"opt": 0,
 		"q": 100
 		},
-	"\/_uploads\/Pendulum.jpg": {
+	"\/_uploads\/pendulum.jpg": {
 		"ft": 16384,
-		"iS": 39217,
+		"iS": 223116,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/_uploads\/Pendulum.jpg",
+		"oAP": "\/_uploads\/pendulum.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -3430,12 +3451,12 @@
 		"opt": 0,
 		"q": 100
 		},
-	"\/_uploads\/SAved.jpg": {
+	"\/_uploads\/saved.jpg": {
 		"ft": 16384,
-		"iS": 65414,
+		"iS": 193577,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/_uploads\/SAved.jpg",
+		"oAP": "\/_uploads\/saved.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -3496,12 +3517,12 @@
 		"opt": 0,
 		"q": 100
 		},
-	"\/_uploads\/Spinnin.jpg": {
+	"\/_uploads\/spinnin.jpg": {
 		"ft": 16384,
-		"iS": 14389,
+		"iS": 22165,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/_uploads\/Spinnin.jpg",
+		"oAP": "\/_uploads\/spinnin.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -3824,48 +3845,6 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/assets\/fonts\/larsseit-extra-bold-italic.woff": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/assets\/fonts\/larsseit-extra-bold-italic.woff",
-		"oF": 0
-		},
-	"\/assets\/fonts\/larsseit-extra-bold-italic.woff2": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/assets\/fonts\/larsseit-extra-bold-italic.woff2",
-		"oF": 0
-		},
-	"\/assets\/fonts\/larsseit-extra-bold.woff": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/assets\/fonts\/larsseit-extra-bold.woff",
-		"oF": 0
-		},
-	"\/assets\/fonts\/larsseit-extra-bold.woff2": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/assets\/fonts\/larsseit-extra-bold.woff2",
-		"oF": 0
-		},
-	"\/assets\/fonts\/larsseit-italic.woff": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/assets\/fonts\/larsseit-italic.woff",
-		"oF": 0
-		},
-	"\/assets\/fonts\/larsseit-italic.woff2": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/assets\/fonts\/larsseit-italic.woff2",
-		"oF": 0
-		},
 	"\/assets\/fonts\/larsseit.woff": {
 		"cB": 0,
 		"ft": 8192,
@@ -3892,20 +3871,6 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/assets\/fonts\/sharp-sans-no1-black.woff2",
-		"oF": 0
-		},
-	"\/assets\/fonts\/sharp-sans-no1-extrabold.woff": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/assets\/fonts\/sharp-sans-no1-extrabold.woff",
-		"oF": 0
-		},
-	"\/assets\/fonts\/sharp-sans-no1-extrabold.woff2": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/assets\/fonts\/sharp-sans-no1-extrabold.woff2",
 		"oF": 0
 		},
 	"\/assets\/icons\/symbol-defs.svg": {
@@ -3999,19 +3964,6 @@
 		"sC": 1,
 		"tS": 0
 		},
-	"\/assets\/scss\/_carousel.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/assets\/css\/_carousel.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
 	"\/assets\/scss\/_fonts.scss": {
 		"aP": 0,
 		"bl": 0,
@@ -4047,32 +3999,6 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "\/assets\/css\/_layout.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"\/assets\/scss\/_lightgallery.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/assets\/css\/_lightgallery.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"\/assets\/scss\/_loading.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/assets\/css\/_loading.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -11193,6 +11119,13 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/bower_components\/turbolinks5\/Gemfile",
+		"oF": 0
+		},
+	"\/bower_components\/turbolinks5\/Gemfile.lock": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/bower_components\/turbolinks5\/Gemfile.lock",
 		"oF": 0
 		},
 	"\/bower_components\/turbolinks5\/LICENSE": {

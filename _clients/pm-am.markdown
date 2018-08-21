@@ -1,8 +1,7 @@
 ---
 title: PM AM
-date: 2017-02-14 12:09:00 Z
 categories:
-- artist
+- artist-and-label-press
 tags:
 - label
 position: 52

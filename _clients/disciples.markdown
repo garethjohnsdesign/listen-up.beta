@@ -1,14 +1,14 @@
 ---
 title: Disciples
 categories:
-- artist
-- radio
+- artist-and-label-press
+- daytime-radio
 tags:
 - artist
 position: 124
 image: "/uploads/disciples.jpg"
 is-front: true
-is-radio-featured: true
+is-daytime-radio-featured: true
 website: http://disciplesldn.com
 facebook: https://www.facebook.com/DisciplesLDN
 twitter: https://twitter.com/Disciples

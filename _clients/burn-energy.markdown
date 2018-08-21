@@ -1,13 +1,12 @@
 ---
 title: Burn Residency
-date: 2017-02-14 14:31:00 Z
 categories:
-- events
+- events-press
 tags:
 - venue
 position: 56
 image: "/uploads/burn.jpg"
-is-events-featured: true
+is-events-press-featured: true
 website: https://www.burn.com/us/en/promotions/burn-residency-2018
 ---
 

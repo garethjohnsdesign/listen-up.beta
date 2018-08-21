@@ -1,9 +1,8 @@
 ---
 title: Rumors
-date: 2017-02-14 12:02:00 Z
 categories:
-- artist
-- club
+- artist-and-label-press
+- specialist-radio-and-club
 tags:
 - label
 position: 49

@@ -1,7 +1,7 @@
 ---
 title: Kimyan Law
 categories:
-- artist
+- artist-and-label-press
 tags:
 - artist
 position: 259

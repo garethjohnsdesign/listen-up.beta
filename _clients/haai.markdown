@@ -1,8 +1,7 @@
 ---
 title: HAAi
-date: 2017-06-29 09:43:00 Z
 categories:
-- club
+- specialist-radio-and-club
 tags:
 - artist
 facebook: https://www.facebook.com/HAAiDJ/

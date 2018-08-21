@@ -1,11 +1,9 @@
 ---
 title: Get Twisted
-date: 2017-03-07 14:39:00 Z
 categories:
-- artist
-- club
+- artist-and-label-press
+- specialist-radio-and-club
 tags:
-- radio
 - label
 position: 104
 ---

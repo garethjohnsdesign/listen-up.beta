@@ -1,8 +1,7 @@
 ---
 title: Kenny Dope
-date: 2017-05-19 13:20:00 Z
 categories:
-- club
+- specialist-radio-and-club
 tags:
 - artist
 position: 8

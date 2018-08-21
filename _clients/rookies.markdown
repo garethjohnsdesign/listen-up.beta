@@ -1,8 +1,7 @@
 ---
 title: Rookies
-date: 2018-02-07 15:15:00 Z
 categories:
-- artist
+- artist-and-label-press
 tags:
 - artist
 ---

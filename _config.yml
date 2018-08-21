@@ -8,9 +8,6 @@ collections:
   posts:
     title: Posts
     output: true
-  recruitment:
-    title: Recruitment
-    output: true
   services:
     title: Services
     output: true
@@ -28,23 +25,16 @@ defaults:
     layout: page
 - scope:
     path: ''
-    type: services
-  values:
-    permalink: "/services/:title/"
-    layout: service
-- scope:
-    path: ''
     type: clients
   values:
     image: 
-    is-featured: 
+    is-client-featured: 
     is-front: 
-    is-events-featured: 
-    is-radio-featured: 
-    is-digital-featured: 
-    is-artist-featured: 
-    is-club-featured: 
-    is-streaming-featured: 
+    is-events-press-featured: 
+    is-daytime-radio-featured: 
+    is-artist-and-label-press-featured: 
+    is-specialist-radio-and-club-featured: 
+    is-streaming-promotion-featured: 
     website: 
     facebook: 
     twitter: 

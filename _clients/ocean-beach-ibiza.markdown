@@ -1,12 +1,11 @@
 ---
 title: Ocean Beach Ibiza
-date: 2018-06-06 10:57:00 Z
 categories:
-- events
+- events-press
 tags:
 - venue
 image: "/uploads/ocean-beach-ibiza.jpg"
-is-featured: true
-is-events-featured: true
+is-client-featured: true
+is-events-press-featured: true
 ---
 

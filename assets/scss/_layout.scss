@@ -165,30 +165,11 @@ p a {
 }
 
 
-// 15. Page
-// --------
-
-.page .navigation {
-  @include links ($black, $primary-color)
-}
-
-.page .hamburger-inner {
-  &,
-  &::before,
-  &::after {
-    background-color: $black;
-  }
-}
-
 // 16. Footer
 // ----------
 
 footer {
   background-color: $primary-color;
-  @include links ($white, $black)
-}
-
-.top-bar {
   @include links ($white, $black)
 }
 
@@ -239,20 +220,9 @@ footer {
   color: $white;
   z-index: 1;
   opacity: 1;
-//   background-color: red;
   background: linear-gradient(
                      rgba(20,20,20, .6),  
                      rgba(20,20,20, .6),)
-}
-
-
-.hero .navigation {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  color: $white;
-  @include links ($white, $primary-color)
 }
 
 .hero {
@@ -274,4 +244,16 @@ footer {
   left: 0;
   z-index: 1;
   width: 100%;
+}
+
+.home .hero {
+  @include links ($primary-color, $white)
+}
+
+.home .hero .menu {
+  @include links ($white, $primary-color)
+}
+
+.home .hero .menu .icon-social {
+  @include links ($primary-color, $white)
 }

@@ -1,7 +1,7 @@
 ---
 title: Island Records
 categories:
-- artist
+- artist-and-label-press
 tags:
 - label
 position: 253

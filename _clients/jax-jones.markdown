@@ -1,7 +1,7 @@
 ---
 title: Jax Jones
 categories:
-- artist
+- artist-and-label-press
 tags:
 - artist
 position: 254

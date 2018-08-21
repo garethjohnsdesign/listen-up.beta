@@ -1,7 +1,7 @@
 ---
 title: Malika
 categories:
-- artist
+- artist-and-label-press
 tags:
 - artist
 position: 198

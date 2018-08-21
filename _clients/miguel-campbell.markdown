@@ -1,7 +1,7 @@
 ---
 title: Miguel Campbell
 categories:
-- artist
+- artist-and-label-press
 tags:
 - artist
 position: 190

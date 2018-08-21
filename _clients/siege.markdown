@@ -1,8 +1,7 @@
 ---
 title: Siege
-date: 2017-03-03 15:41:00 Z
 categories:
-- club
+- specialist-radio-and-club
 tags:
 - artist
 position: 84

@@ -1,7 +1,7 @@
 ---
 title: Dirty South
 categories:
-- artist
+- artist-and-label-press
 tags:
 - artist
 position: 123

@@ -1,5 +1,9 @@
 ---
 title: Barli
+categories:
+- artist-and-label-press
+tags:
+- artist
 position: 146
 facebook: https://www.facebook.com/iamBarli/
 twitter: https://twitter.com/iambarli

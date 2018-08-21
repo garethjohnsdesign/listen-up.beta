@@ -1,7 +1,7 @@
 ---
 title: SUNcéBeat
 categories:
-- events
+- events-press
 tags:
 - festival
 position: 306

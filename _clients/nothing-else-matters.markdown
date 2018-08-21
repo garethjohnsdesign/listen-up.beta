@@ -1,7 +1,7 @@
 ---
 title: Nothing Else Matters
 categories:
-- artist
+- artist-and-label-press
 tags:
 - labels
 - label

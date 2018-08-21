@@ -1,8 +1,7 @@
 ---
 title: A-SHO
-date: 2017-11-13 10:44:00 Z
 categories:
-- press
+- artist-and-label-press
 tags:
 - artist
 facebook: https://www.facebook.com/asho.music/

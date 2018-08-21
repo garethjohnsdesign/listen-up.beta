@@ -1,7 +1,7 @@
 ---
 title: Positiva Records
 categories:
-- artist
+- artist-and-label-press
 tags:
 - label
 position: 229

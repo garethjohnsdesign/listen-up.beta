@@ -1,8 +1,8 @@
 ---
 title: Size Records
 categories:
-- artist
-- club
+- artist-and-label-press
+- specialist-radio-and-club
 tags:
 - label
 position: 293

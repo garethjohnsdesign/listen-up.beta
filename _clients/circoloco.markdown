@@ -2,9 +2,13 @@
 title: Circoloco
 position: 173
 image: "/uploads/circoloco.jpg"
-is-featured: false
+categories:
+- artist-and-label-press
+tags:
+- artist
+is-client-featured: false
 is-front: false
-is-events-featured: false
+is-events-press-featured: false
 website: http://www.circolocoibiza.com
 facebook: https://www.facebook.com/circolocoibiza/
 twitter: https://twitter.com/circolocoibiza

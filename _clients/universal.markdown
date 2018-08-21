@@ -1,14 +1,13 @@
 ---
 title: Universal
-date: 2017-02-05 19:04:00 Z
 categories:
-- artist
+- artist-and-label-press
 tags:
 - label
 position: 113
 image: "/uploads/universal.jpg"
-is-featured: true
+is-client-featured: true
 is-front: true
-is-artist-featured: true
+is-artist-and-label-featured: true
 ---
 

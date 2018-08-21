@@ -1,14 +1,12 @@
 ---
 title: Pendulum
-date: 2017-06-29 09:50:00 Z
 categories:
-- artist
-- press
+- artist-and-label-press
 tags:
 - artist
 image: "/uploads/pendulum.jpg"
 is-front: true
-is-artist-featured: true
+is-artist-and-label-featured: true
 website: http://pendulum.com/
 ---
 

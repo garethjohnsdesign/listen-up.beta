@@ -1,8 +1,7 @@
 ---
 title: Partyfavor
-date: 2017-06-05 10:50:00 Z
 categories:
-- press
+- artist-and-label-press
 tags:
 - artist
 position: 20

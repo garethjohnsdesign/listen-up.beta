@@ -1,8 +1,7 @@
 ---
 title: Grfynn
-date: 2017-03-17 14:38:00 Z
 categories:
-- artist
+- artist-and-label-press
 tags:
 - artist
 position: 31

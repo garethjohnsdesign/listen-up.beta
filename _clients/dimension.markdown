@@ -1,13 +1,13 @@
 ---
 title: Dimension
 categories:
-- radio
+- daytime-radio
 tags:
 - artist
 position: 122
 image: "/uploads/dimension.jpg"
 is-front: false
-is-radio-featured: false
+is-daytime-radio-featured: false
 website: http://thisisdimension.com
 facebook: https://www.facebook.com/Dimension/
 twitter: https://twitter.com/dimension_uk

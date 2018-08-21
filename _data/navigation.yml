@@ -2,13 +2,13 @@
   url: /services/
   sublinks:
     - title: Artist + Label Press
-      url: /services/artist/
+      url: /services/artist-and-label-press/
     - title: Events Press
-      url: /services/events/
+      url: /services/events-press/
     - title: Daytime Radio
-      url: /services/radio/
+      url: /services/daytime-radio/
     - title: Specialist Radio + Club
-      url: /services/club/
+      url: /services/specialist-radio-and-club/
     - title: Streaming Promotion
       url: /services/streaming-promotion/
       

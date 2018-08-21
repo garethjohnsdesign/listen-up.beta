@@ -1,12 +1,12 @@
 ---
 title: Spinnin' Records
 categories:
-- artist
+- artist-and-label-press
 tags:
 - label
 position: 299
 image: "/uploads/spinnin.jpg"
-is-featured: false
+is-client-featured: false
 is-front: true
 facebook: https://www.facebook.com/SpinninRecords
 ---

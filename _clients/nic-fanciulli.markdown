@@ -1,8 +1,7 @@
 ---
 title: Nic Fanciulli
-date: 2017-03-03 15:34:00 Z
 categories:
-- club
+- specialist-radio-and-club
 tags:
 - artist
 position: 76

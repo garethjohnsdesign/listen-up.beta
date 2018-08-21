@@ -1,8 +1,7 @@
 ---
 title: Snakehips
 categories:
-- artist
-- press
+- artist-and-label-press
 tags:
 - artist
 position: 296

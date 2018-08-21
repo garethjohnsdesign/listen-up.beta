@@ -1,8 +1,7 @@
 ---
 title: Southport Weekender Festival
-date: 2017-03-17 14:43:00 Z
 categories:
-- events
+- events-press
 tags:
 - festival
 position: 32

@@ -1,8 +1,7 @@
 ---
 title: My Heart
-date: 2017-10-10 11:53:00 Z
 categories:
-- club
+- specialist-radio-and-club
 tags:
 - label
 ---

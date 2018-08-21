@@ -1,8 +1,8 @@
 ---
 title: RAM Records
 categories:
-- artist
-- radio
+- artist-and-label-press
+- daytime-radio
 tags:
 - label
 - labels

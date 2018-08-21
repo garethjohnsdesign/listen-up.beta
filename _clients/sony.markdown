@@ -1,17 +1,16 @@
 ---
 title: Sony
-date: 2017-02-14 11:56:00 Z
 categories:
-- radio
+- daytime-radio
 - artist
-- club
+- specialist-radio-and-club
 - streaming-promotion
 tags:
 - label
 position: 48
 image: "/uploads/sony.jpg"
 is-front: true
-is-artist-featured: true
-is-streaming-featured: true
+is-artist-and-label-featured: true
+is-streaming-promotion-featured: true
 ---
 

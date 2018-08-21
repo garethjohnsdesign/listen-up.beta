@@ -1,7 +1,7 @@
 ---
 title: AATW Records
 categories:
-- radio
+- daytime-radio
 tags:
 - label
 position: 333

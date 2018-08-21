@@ -1,7 +1,7 @@
 ---
 title: Eats Everything
 categories:
-- artist
+- artist-and-label-press
 tags:
 - artist
 position: 232

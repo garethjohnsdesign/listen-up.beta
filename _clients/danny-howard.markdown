@@ -1,9 +1,8 @@
 ---
 title: Danny Howard
-date: 2017-03-05 22:15:00 Z
 categories:
-- press
-- club
+- artist-and-label-press
+- specialist-radio-and-club
 tags:
 - artist
 position: 87

@@ -1,8 +1,7 @@
 ---
 title: Hospitality In The Park
-date: 2017-03-17 14:42:00 Z
 categories:
-- events
+- events-press
 tags:
 - festival
 position: 35

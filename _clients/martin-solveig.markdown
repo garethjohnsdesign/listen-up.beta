@@ -1,15 +1,15 @@
 ---
 title: Martin Solveig
 categories:
-- radio
+- daytime-radio
 - artist
 tags:
 - artist
 position: 182
 image: "/uploads/solveig.jpg"
 is-front: true
-is-radio-featured: false
-is-artist-featured: false
+is-daytime-radio-featured: false
+is-artist-and-label-featured: false
 website: http://www.martinsolveig.com
 facebook: http://www.facebook.com/MartinSolveig
 twitter: http://twitter.com/martinsolveig

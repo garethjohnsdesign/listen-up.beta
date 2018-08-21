@@ -1,14 +1,14 @@
 ---
 title: Lost and Found Festival
 categories:
-- events
+- events-press
 tags:
 - festival
 position: 159
 image: "/uploads/lost-found.jpg"
-is-featured: false
+is-client-featured: false
 is-front: false
-is-events-featured: true
+is-events-press-featured: true
 website: http://www.lostandfoundfestival.com
 facebook: https://www.facebook.com/lostandfoundfestival/
 twitter: https://twitter.com/AMPlostandfound

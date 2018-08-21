@@ -1,13 +1,12 @@
 ---
 title: Waka Flocka Flame
-date: 2018-03-15 16:44:00 Z
 categories:
-- artist
+- artist-and-label-press
 tags:
 - artist
 image: "/uploads/waka-flocka-flame.jpg"
-is-featured: true
+is-client-featured: true
 is-front: true
-is-artist-featured: true
+is-artist-and-label-featured: true
 ---
 

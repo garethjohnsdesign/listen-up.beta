@@ -1,15 +1,15 @@
 ---
 title: Jamie Jones
 categories:
-- artist
+- artist-and-label-press
 tags:
 - artist
 position: 116
 image: "/uploads/jamie-jones.jpg"
-is-featured: true
+is-client-featured: true
 is-front: true
 is-digital-featured: false
-is-artist-featured: true
+is-artist-and-label-featured: true
 website: http://hotcreations.com
 facebook: https://www.facebook.com/jamiejonesmusic/
 twitter: https://twitter.com/JamieJonesMusic

@@ -1,6 +1,7 @@
 ---
 title: ANTS
-date: 2017-03-05 22:33:00 Z
+categories:
+- events-press
 tags:
 - venue
 position: 103

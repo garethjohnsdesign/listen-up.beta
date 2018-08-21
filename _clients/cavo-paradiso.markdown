@@ -1,5 +1,9 @@
 ---
 title: Cavo Paradiso
+categories:
+- events-press
+tags:
+- venue
 position: 168
 website: http://cavoparadiso.gr
 facebook: https://www.facebook.com/cavoparadiso

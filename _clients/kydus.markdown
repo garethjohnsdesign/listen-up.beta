@@ -1,8 +1,7 @@
 ---
 title: Kydus
-date: 2017-08-10 10:06:00 Z
 categories:
-- press
+- artist-and-label-press
 tags:
 - artist
 facebook: https://www.facebook.com/kydusmusic/

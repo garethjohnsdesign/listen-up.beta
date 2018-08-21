@@ -1,7 +1,7 @@
 ---
 title: OWSLA
 categories:
-- artist
+- artist-and-label-press
 tags:
 - label
 - labels

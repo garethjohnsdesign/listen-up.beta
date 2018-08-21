@@ -1,8 +1,7 @@
 ---
 title: Mackaroo
-date: 2017-10-02 09:53:00 Z
 categories:
-- press
+- artist-and-label-press
 tags:
 - artist
 ---

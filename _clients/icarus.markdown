@@ -1,14 +1,14 @@
 ---
 title: Icarus
 categories:
-- artist
-- club
+- artist-and-label-press
+- specialist-radio-and-club
 tags:
 - artist
 position: 248
 image: "/uploads/icarus.jpg"
 is-front: false
-is-club-featured: true
+is-specialist-radio-and-club-featured: true
 facebook: https://www.facebook.com/thisisicarus
 ---
 

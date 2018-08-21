@@ -1,16 +1,13 @@
 ---
 title: Alison Wonderland
 categories:
-- artist
-- radio
-- press
+- artist-and-label-press
+- daytime-radio
 tags:
 - artist
-- press
-- radio
 position: 156
 image: "/uploads/alison-wonderland.jpg"
-is-featured: true
+is-client-featured: true
 is-front: true
 website: http://www.alisonwonderland.com.au
 facebook: https://www.facebook.com/awonderdj

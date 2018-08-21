@@ -1,7 +1,7 @@
 ---
 title: Sonny Alven
 categories:
-- artist
+- artist-and-label-press
 tags:
 - artist
 position: 297

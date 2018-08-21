@@ -1,7 +1,7 @@
 ---
 title: Cut Snake
 categories:
-- club
+- specialist-radio-and-club
 tags:
 - artist
 position: 154

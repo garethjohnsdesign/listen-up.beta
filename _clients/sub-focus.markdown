@@ -1,12 +1,12 @@
 ---
 title: Subfocus
 categories:
-- artist
+- artist-and-label-press
 tags:
 - artist
 position: 337
 image: "/uploads/subfocus.jpg"
-is-featured: false
+is-client-featured: false
 is-front: false
 facebook: https://www.facebook.com/subfocus/
 deezer: 

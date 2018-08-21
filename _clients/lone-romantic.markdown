@@ -1,8 +1,7 @@
 ---
 title: Lone Romantic
-date: 2017-05-19 13:18:00 Z
 categories:
-- club
+- specialist-radio-and-club
 tags:
 - label
 position: 7

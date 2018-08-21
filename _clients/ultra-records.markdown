@@ -1,8 +1,8 @@
 ---
 title: Ultra Records
 categories:
-- artist
-- radio
+- artist-and-label-press
+- daytime-radio
 tags:
 - label
 - labels

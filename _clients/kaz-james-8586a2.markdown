@@ -1,10 +1,8 @@
 ---
 title: Kaz James
-date: 2017-05-19 13:22:00 Z
 categories:
-- club
-- artist
-- press
+- specialist-radio-and-club
+- artist-and-label-press
 tags:
 - artist
 position: 11

@@ -1,7 +1,7 @@
 ---
 title: Pleasure State
 categories:
-- artist
+- artist-and-label-press
 tags:
 - artist
 position: 272

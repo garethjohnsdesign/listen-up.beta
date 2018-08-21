@@ -1,12 +1,12 @@
 ---
 title: Patrick Topping
 categories:
-- artist
+- artist-and-label-press
 tags:
 - artist
 position: 336
 image: "/uploads/patrick-topping.jpg"
-is-featured: false
+is-client-featured: false
 is-front: false
 facebook: https://www.facebook.com/patricktoppingdj/
 twitter: https://twitter.com/Patrick_Topping

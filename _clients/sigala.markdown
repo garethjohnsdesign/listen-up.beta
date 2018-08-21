@@ -1,13 +1,13 @@
 ---
 title: Sigala
 categories:
-- radio
+- daytime-radio
 tags:
 - artist
 position: 290
 image: "/uploads/sigala.jpg"
 is-front: false
-is-radio-featured: true
+is-daytime-radio-featured: true
 facebook: https://www.facebook.com/sigalamusic
 ---
 

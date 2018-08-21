@@ -1,7 +1,7 @@
 ---
 title: Big Beat
 categories:
-- artist
+- artist-and-label-press
 tags:
 - label
 position: 158

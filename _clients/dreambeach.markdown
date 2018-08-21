@@ -1,7 +1,7 @@
 ---
 title: Dreambeach
 categories:
-- events
+- events-press
 tags:
 - festival
 position: 176

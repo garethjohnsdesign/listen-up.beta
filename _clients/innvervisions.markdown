@@ -1,8 +1,7 @@
 ---
 title: Innvervisions
-date: 2017-03-10 16:17:00 Z
 categories:
-- club
+- specialist-radio-and-club
 tags:
 - labels
 position: 106

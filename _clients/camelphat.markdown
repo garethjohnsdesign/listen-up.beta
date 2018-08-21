@@ -1,5 +1,7 @@
 ---
 title: Camelphat
+categories:
+- artist-and-label-press
 tags:
 - artist
 position: 166

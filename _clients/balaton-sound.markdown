@@ -1,12 +1,11 @@
 ---
 title: Balaton Sound
-date: 2018-02-09 11:18:00 Z
 categories:
-- events
+- events-press
 tags:
 - festival
 image: "/uploads/balaton-sound.jpg"
-is-events-featured: true
+is-events-press-featured: true
 website: https://balatonsound.com/en/
 ---
 

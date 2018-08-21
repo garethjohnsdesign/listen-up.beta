@@ -1,11 +1,9 @@
 ---
 title: DJDS
-date: 2018-04-12 10:09:00 Z
 categories:
-- Press
-- Artist
+- artist-and-label-press
 tags:
-- Artist
+- artist
 image: "/uploads/djds.jpg"
 is-front: true
 ---

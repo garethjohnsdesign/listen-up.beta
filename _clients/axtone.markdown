@@ -1,7 +1,7 @@
 ---
 title: Axtone
 categories:
-- artist
+- artist-and-label-press
 tags:
 - label
 position: 144

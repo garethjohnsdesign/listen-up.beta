@@ -1,8 +1,7 @@
 ---
 title: Todd Terry
-date: 2017-05-19 13:22:00 Z
 categories:
-- club
+- specialist-radio-and-club
 tags:
 - artist
 position: 12

@@ -1,7 +1,7 @@
 ---
 title: Knife Party
 categories:
-- artist
+- artist-and-label-press
 tags:
 - artist
 position: 261

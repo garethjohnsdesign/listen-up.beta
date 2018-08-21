@@ -1,8 +1,7 @@
 ---
 title: Kompakt
-date: 2017-03-03 15:42:00 Z
 categories:
-- club
+- specialist-radio-and-club
 tags:
 - label
 position: 86

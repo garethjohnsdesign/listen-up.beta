@@ -1,5 +1,7 @@
 ---
 title: Franky Rizardo
+categories:
+- artist-and-label-press
 tags:
 - artist
 position: 239

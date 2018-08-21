@@ -1,8 +1,7 @@
 ---
 title: Rythm Masters
-date: 2017-03-03 15:35:00 Z
 categories:
-- club
+- specialist-radio-and-club
 tags:
 - artist
 position: 77

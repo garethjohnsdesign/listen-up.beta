@@ -1,6 +1,7 @@
 ---
 title: Jesse Elvis
-date: 2017-03-05 22:23:00 Z
+categories:
+- artist-and-label-press
 tags:
 - artist
 position: 97

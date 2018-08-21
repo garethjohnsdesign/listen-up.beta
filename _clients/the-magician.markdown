@@ -1,7 +1,7 @@
 ---
 title: The Magician
 categories:
-- artist
+- artist-and-label-press
 tags:
 - artist
 position: 312

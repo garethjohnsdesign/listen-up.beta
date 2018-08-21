@@ -1,8 +1,7 @@
 ---
 title: DIRTYBIRD
-date: 2017-05-19 13:00:00 Z
 categories:
-- club
+- specialist-radio-and-club
 tags:
 - label
 position: 4

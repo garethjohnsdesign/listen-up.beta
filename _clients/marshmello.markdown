@@ -1,17 +1,16 @@
 ---
 title: Marshmello
-date: 2017-03-05 22:25:00 Z
 categories:
-- artist
-- radio
+- artist-and-label-press
+- daytime-radio
 tags:
 - artist
 position: 101
 image: "/uploads/mello.jpg"
-is-featured: false
+is-client-featured: false
 is-front: true
-is-radio-featured: true
-is-artist-featured: true
+is-daytime-radio-featured: true
+is-artist-and-label-featured: true
 website: http://www.marshmellomusic.com/
 facebook: https://www.facebook.com/marshmellomusic/
 twitter: http://www.twitter.com/marshmellomusic

@@ -1,10 +1,7 @@
 ---
 title: Forbidden Forest
-date: 2018-02-07 15:11:00 Z
 categories:
-- artist
-- press
-- events
+- events-press
 tags:
 - festival
 website: https://www.forbidden-forest.co.uk/

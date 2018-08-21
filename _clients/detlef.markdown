@@ -1,8 +1,7 @@
 ---
 title: Detlef
-date: 2017-03-05 22:21:00 Z
 categories:
-- press
+- artist-and-label-press
 tags:
 - artist
 position: 92

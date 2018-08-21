@@ -1,7 +1,11 @@
 ---
 title: Brobot Records
+categories:
+- artist-and-label-press
+tags:
+- artist
 position: 164
-is-artist-featured: false
+is-artist-and-label-featured: false
 website: http://www.brobotrecords.com
 facebook: https://www.facebook.com/brobotrecords/
 twitter: https://twitter.com/Brobot

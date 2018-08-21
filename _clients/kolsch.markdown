@@ -1,15 +1,14 @@
 ---
 title: Kölsch
 categories:
-- club
+- specialist-radio-and-club
 tags:
 - artist
-- publication
 position: 263
 image: "/uploads/kolsch.jpg"
-is-featured: true
+is-client-featured: true
 is-front: true
-is-club-featured: true
+is-specialist-radio-and-club-featured: true
 facebook: https://www.facebook.com/kolschofficial
 ---
 

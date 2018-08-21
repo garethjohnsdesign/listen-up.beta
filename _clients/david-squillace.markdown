@@ -1,7 +1,7 @@
 ---
 title: David Squillace
 categories:
-- artist
+- artist-and-label-press
 tags:
 - artist
 position: 128

@@ -1,14 +1,14 @@
 ---
 title: Deadmau5
 categories:
-- artist
+- artist-and-label-press
 tags:
 - artist
 position: 117
 image: "/uploads/deadmau5.jpg"
-is-featured: true
+is-client-featured: true
 is-front: true
-is-artist-featured: true
+is-artist-and-label-featured: true
 website: http://live.deadmau5.com
 facebook: https://www.facebook.com/deadmau5
 twitter: https://twitter.com/deadmau5

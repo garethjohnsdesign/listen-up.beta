@@ -1,7 +1,7 @@
 ---
 title: Tiga
 categories:
-- radio
+- daytime-radio
 tags:
 - artist
 position: 318

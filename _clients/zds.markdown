@@ -1,8 +1,7 @@
 ---
 title: ZDS
-date: 2017-05-23 14:31:00 Z
 categories:
-- club
+- specialist-radio-and-club
 tags:
 - artist
 position: 19

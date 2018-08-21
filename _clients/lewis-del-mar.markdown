@@ -1,7 +1,7 @@
 ---
 title: Lewis Del Mar
 categories:
-- artist
+- artist-and-label-press
 tags:
 - artist
 position: 204

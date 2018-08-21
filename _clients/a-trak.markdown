@@ -1,12 +1,12 @@
 ---
 title: A-Trak
 categories:
-- artist
+- artist-and-label-press
 tags:
 - artist
 position: 112
 image: "/uploads/atrak.jpg"
-is-featured: false
+is-client-featured: false
 is-front: false
 website: http://atrak.com
 facebook: https://www.facebook.com/atrak

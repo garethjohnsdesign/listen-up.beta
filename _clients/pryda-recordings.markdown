@@ -1,7 +1,7 @@
 ---
 title: Pryda Recordings
 categories:
-- club
+- specialist-radio-and-club
 tags:
 - label
 position: 188

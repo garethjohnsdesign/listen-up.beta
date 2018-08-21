@@ -1,8 +1,7 @@
 ---
 title: Robert Dietz
-date: 2017-02-14 12:03:00 Z
 categories:
-- club
+- specialist-radio-and-club
 tags:
 - artist
 position: 50

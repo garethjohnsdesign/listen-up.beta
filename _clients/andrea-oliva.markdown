@@ -1,14 +1,14 @@
 ---
 title: Andrea Oliva
 categories:
-- artist
-- club
+- artist-and-label-press
+- specialist-radio-and-club
 tags:
 - artist
 position: 139
 image: "/uploads/andrea.jpg"
 is-front: false
-is-radio-featured: false
+is-daytime-radio-featured: false
 website: https://www.andreaolivamusic.com
 facebook: http://www.facebook.com/andreaolivaofficial
 twitter: http://www.twitter.com/andreaoliva1

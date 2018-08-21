@@ -1,8 +1,7 @@
 ---
 title: Blue Marlin UAE
-date: 2017-02-16 11:51:00 Z
 categories:
-- events
+- events-press
 tags:
 - venue
 position: 72

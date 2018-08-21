@@ -1,9 +1,8 @@
 ---
 title: FFRR Recordings
 categories:
-- club
-- artist
-- radio
+- specialist-radio-and-club
+- daytime-radio
 tags:
 - label
 position: 237

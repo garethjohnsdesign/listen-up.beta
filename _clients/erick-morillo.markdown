@@ -1,9 +1,8 @@
 ---
 title: Erick Morillo
 categories:
-- artist
-- club
-- press
+- artist-and-label-press
+- specialist-radio-and-club
 tags:
 - artist
 position: 133

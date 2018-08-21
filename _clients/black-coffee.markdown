@@ -1,12 +1,12 @@
 ---
 title: Black Coffee
 categories:
-- artist
+- artist-and-label-press
 tags:
 - artist
 position: 155
 image: "/uploads/coffee.jpg"
-is-featured: false
+is-client-featured: false
 is-front: true
 website: http://www.blackcoffee.dj
 facebook: https://www.facebook.com/realblackcoffee

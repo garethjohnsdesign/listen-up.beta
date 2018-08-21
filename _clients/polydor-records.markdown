@@ -1,8 +1,7 @@
 ---
 title: Polydor Records
-date: 2018-04-17 09:25:00 Z
 categories:
-- radio
+- daytime-radio
 tags:
 - labels
 ---

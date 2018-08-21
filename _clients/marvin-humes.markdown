@@ -1,8 +1,7 @@
 ---
 title: Marvin Humes
-date: 2017-04-03 14:14:00 Z
 categories:
-- press
+- artist-and-label-press
 tags:
 - artist
 position: 277

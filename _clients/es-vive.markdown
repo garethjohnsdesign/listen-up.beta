@@ -1,12 +1,12 @@
 ---
 title: Es Vive
 categories:
-- events
+- events-press
 tags:
 - venue
 position: 134
 image: "/uploads/esvive.jpg"
-is-events-featured: true
+is-events-press-featured: true
 facebook: https://www.facebook.com/esvive
 ---
 

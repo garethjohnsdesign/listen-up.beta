@@ -1,17 +1,17 @@
 ---
 title: We Are FSTVL
 categories:
-- events
-- radio
+- events-press
+- daytime-radio
 tags:
 - festival
 position: 153
 image: "/uploads/we-are-fstvl.jpg"
-is-featured: true
+is-client-featured: true
 is-front: true
-is-events-featured: true
-is-radio-featured: false
-is-artist-featured: false
+is-events-press-featured: true
+is-daytime-radio-featured: false
+is-artist-and-label-featured: false
 facebook: https://www.facebook.com/wearefstvl
 ---
 

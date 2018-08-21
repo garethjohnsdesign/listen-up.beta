@@ -1,8 +1,7 @@
 ---
 title: Gorgon City
-date: 2017-05-22 16:15:00 Z
 categories:
-- artist
+- artist-and-label-press
 tags:
 - artist
 position: 16

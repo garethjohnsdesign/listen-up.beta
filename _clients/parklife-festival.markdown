@@ -1,17 +1,17 @@
 ---
 title: Parklife Festival
 categories:
-- events
-- radio
+- events-press
+- daytime-radio
 tags:
 - festival
 position: 217
 image: "/uploads/parklife.jpg"
-is-featured: true
+is-client-featured: true
 is-front: true
-is-events-featured: true
-is-radio-featured: true
-is-artist-featured: false
+is-events-press-featured: true
+is-daytime-radio-featured: true
+is-artist-and-label-featured: false
 facebook: https://www.facebook.com/parklifefestival
 ---
 
